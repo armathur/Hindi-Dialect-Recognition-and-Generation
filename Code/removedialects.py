@@ -2,8 +2,9 @@ import sys
 
 dialogues = []
 
-with open(sys.argv[1], "r") as text_file:
+with open(sys.argv[1], "rU") as text_file:
     for line in text_file:
+    	print line
     	(dialogue, dialect) = line.split(" | ")
     	dialogues.append(dialogue)
 
