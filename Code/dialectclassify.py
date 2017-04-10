@@ -2,7 +2,9 @@ import sys, math, ast, random
 
 test_set = []
 
-with open("dialectmodel.txt","r") as model_file:
+print "Classifying Dialects..."
+
+with open("Code/dialectmodel.txt","r") as model_file:
     dialect_prior = ast.literal_eval(model_file.readline().rstrip())
     dialect_prob = ast.literal_eval(model_file.readline().rstrip())
 
@@ -26,6 +28,8 @@ for i, dialogue in enumerate(test_set):
     (predicted_dialect, predicted_prob) = max(prob_list.items(), key = lambda k: k[1])
     test_set[i] = dialogue + " | " + predicted_dialect
 
-with open("dialectresult.txt", "w") as result_file:
+with open("Code/dialectresult.txt", "w") as result_file:
     for dialogue in test_set:
         result_file.write(dialogue + "\n")
+
+print "Result Available."

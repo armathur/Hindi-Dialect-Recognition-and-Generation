@@ -5,6 +5,8 @@ token_set = set()
 dialect_prior = {}
 dialect_prob = {}
 
+print "Learning model..."
+
 with open(sys.argv[1], "r") as text_file:
     for line in text_file:
         (dialogue, dialect) = line.strip().split(" | ")
@@ -35,6 +37,8 @@ for dialect in dialect_prob.keys():
     for key in dialect_prob[dialect]:
         dialect_prob[dialect][key] = math.log(dialect_prob[dialect][key] / float(dialect_total))
 
-with open("dialectmodel.txt", "w") as model_file:
+with open("Code/dialectmodel.txt", "w") as model_file:
     model_file.write(str(dialect_prior) + "\n")
     model_file.write(str(dialect_prob) + "\n")
+
+print "Learned model."
