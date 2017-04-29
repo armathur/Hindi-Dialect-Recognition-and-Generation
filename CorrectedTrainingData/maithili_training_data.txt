@@ -1,0 +1,612 @@
+और/CC तुम/PRP ?/PUNC 
+देखो/VFM ./SYM अब/RB और/CC मेरी/PRP हेल्प/Unk मत/VAUX करना/VFM ./SYM प्लीज़/Unk ./SYM अपने/PRP काम/NN से/PREP 
+मेरा/PRP पैसा/NN पैसा/NN दो/QFNUM ,/PUNC मेरा/PRP पैसा/NN बाकी/VFM है/VAUX ./SYM 
+आबे/INJ रुक/VFM ./SYM 
+देखो/VFM कितना/QF है/VAUX 
+चेंज/Unk बॉरो/Unk कर/VFM सकती/VAUX हूँ/VAUX पानी/NN लेना/VNN है/VFM ./SYM 
+और/CC है/VAUX ना/NEG ?/PUNC 
+ट्रेन/NN में/PREP रिटर्न/Unk करती/VFM हूँ/VAUX 
+तू/PRP चुप-छाप/RB खड़ा/VFM रह/VFM ,/PUNC मैं/PRP दे/VFM रहा/VAUX हूँ/VAUX पैसे/NN ./SYM 
+पानी/NN ./SYM 
+साँस/NN बंद/NVB हो/VFM गयी/VFM बाइ/Unk गोद/Unk ./SYM कोला/Unk शोला/Unk सब/INTF अपनी/PRP जगह/NN पर/PREP है/VFM पर/PREP पानी/NN का/PREP काम/NN पानी/NN ही/RP करता/VFM है/VAUX ./SYM कहते/VFM हैं/VAUX ना/NN बेस्ट/Unk थिंग्स/Unk इन/PRP थे/VFM वर्ल्ड/Unk अरे/INJ फ्री/Unk वैसे/Unk अब/RB पानी/NN तो/RP फ्री/Unk रहा/VAUX नहीं/NEG कितने/Unk का/PREP है/VFM ?/PUNC 
+चौदह/QFNUM रूपिया/NN 
+क्यों/QW ?/PUNC रेलवे/Unk के/PREP दाम/NN तो/RP कम/INTF होते/VFM हैं/VAUX ./SYM 
+यही/PRP रते/VFM है/VAUX 
+अच्छा/JJ ?/PUNC कन्ज़्यूमर/Unk कोर्ट/NNP से/PREP पूछूँ/VFM क्या/QW रते/VFM है/VAUX ?/PUNC हैं/VAUX ?/PUNC उल्लू/Unk बनाते/Unk हो/VFM ?/PUNC 
+दो/QFNUM रूपिया/Unk के/PREP लिए/PREP इतना/QF झिक-झिक/Unk ?/PUNC 
+दो/QFNUM रुपये/Unk कुछ/QF नहीं/NEG होते/VFM तो/CC चोरी/NN क्यों/QW कर/VFM रहे/VAUX हो/VFM ?/PUNC 
+चोरी/NN 
+और/CC क्या/QW ?/PUNC और/CC कहते/VFM हो/VFM मैं/PRP झिक-झिक/VFM कर/VFM रही/VAUX हूँ/VAUX ?/PUNC पैसे/NN दो/QFNUM वापस/JVB ./SYM 
+रोको/VFM ट्रेन/NN को/PREP रोको/NN ./SYM अरे/INJ कोई/PRP चैन/Unk खीँचो/VFM ./SYM रोको/VFM ट्रेन/NN को/PREP अरे/INJ 
+कोटा/NNP है/VAUX अगला/JJ स्टेशन/NN ./SYM मैं/PRP वहाँ/PRP के/PREP स्टेशन/NN मास्टर/NN को/PREP इनफॉर्म/Unk कर/VFM दूँगा/Unk ./SYM मास्टर/NN वो/PRP आपका/Unk समान/NN रख/VFM लेंगे/VFM ./SYM 
+और/CC तो/CC कुछ/QF नहीं/NEG हो/VFM सकता/VAUX है/VAUX ./SYM 
+मैं/PRP वहाँ/PRP पहुँचूँगी/VFM कैसे/VAUX ?/PUNC शीत/Unk ./SYM 
+कौन/VAUX बोला/VFM ट्रेन/NN से/PREP उतरने/VFM ?/PUNC 
+होशियार/NN रहना/VNN चाहिए/VFM था/VAUX ./SYM अब/RB क्या/QW करोगी/VFM ?/PUNC 
+जवानी/NN का/PREP जोश/NN ./SYM समझते/VFM नहीं/NEG हो/VFM ./SYM नहीं/NEG ./SYM बिल्कुल/INTF नहीं/NEG ./SYM देखो/VFM
+ज़िंदगी/MM रेल/NNC की/PREP पटरी/Unk है/VAUX ./SYM एक/QFNUM इंच/Unk का/PREP बेंड/Unk और/CC आयेज/Unk चल/VFM के/PREP मीलों/NNC की/PREP दूरी/Unk ./SYM अब/RB देखो/VFM ./SYM एक/QFNUM छोटी/INTF सी/NNPC भूल/NNC तुम्हारी/PRP सारी/INTF ज़िंदगी/NNC बदल/VFM सकती/VAUX है/VAUX ./SYM 
+मेरी/PRP भी/RP काई/INTF ट्रेन/NN छ्छूती/VFM है/VAUX ./SYM पर/PREP उन/PRP दिनों/NN मैं/PRP मर्द/Unk था/VAUX मतलब/NN की/PREP मर्द/Unk हू/VAUX मैं/PRP ,/PUNC अब/RB भी/RP पर/PREP तुम/PRP लड़की/NNC हो/VFM ./SYM अकेली/JJ लड़की/NNC खुली/JJ हुई/VFM तिजोरी/NNC होती/VFM है/VAUX ./SYM तुमको/PRP पता/NVB है/VFM क्या/QW हो/VFM सकता/VAUX है/VAUX तुम्हारे/PRP साथ/PREP ?/PUNC पता/NVB है/VFM ?/PUNC मैं/PRP बाटा/VFM हूँ/VAUX ./SYM देखो/VFM 
+आपसे/PRP पूच्छना/VFM था/VAUX आप/PRP जो/PRP ये/PRP सब/QF बोल/VFM रहे/VAUX हैं/VAUX ,/PUNC इसके/PRP पैसे/NNC चार्ज/Unk करते/VJJ है/VAUX या/CC ये/PRP मुफ़्त/Unk का/PREP गयाँ/VFM है/VAUX ?/PUNC 
+नहीं/NEG ये/PRP तो/RP मुफ़्त/JJ है/VAUX 
+गुड/Unk क्योंकि/CC चिल्लड़/NNC नहीं/NEG है/VAUX मेरे/PRP पास/NN ./SYM देखो/VFM बुड्ढे/NNC बकवास/NN बंद/NVB करो/VFM और/CC अपना/PRP काम/NN करो/VFM ./SYM कोटा/NNP को/PREP मेसेज/Unk भेजो/VFM ,/PUNC बाकी/QF मेरी/PRP प्राब्लम/Unk है/VAUX ,/PUNC मैं/PRP संहाल/VFM लूँगी/VAUX ./SYM चलो/VFM फोन/NNC मिलाओ/VFM ./SYM 
+आपका/PRP पानी/NN ./SYM 
+बहुत/INTF बुरा/NN हुआ/VFM ./SYM 
+का/PREP बात/NN है/VAUX भाई/NN ?/PUNC का/PREP हुआ/VFM ?/PUNC 
+ट्रेन/NN छ्छूट/VFM गयी/VAUX बेचारी/JJ की/PREP ./SYM 
+अरे/INJ अरे/INJ ./SYM 
+सुबह/NNC तक/PREP दूसरी/QFNUM कोई/PRP ट्रेन/NN भी/RP नहीं/NEG है/VFM ./SYM 
+धात/INJ तेरी/PRP की/PREP ./SYM अकेली/JJ है/VAUX ?/PUNC 
+हन/INJ ./SYM 
+त्च/RDP त्च/RDP त्च/RDP त्च/RDP ./SYM अब/RB का/PREP करेगी/VFM ये/PRP ?/PUNC 
+वोही/PRP तो/RP ./SYM तुम/PREP तो/RP जानते/VFM हो/VFM ./SYM अकेली/JJ लड़की/NN खुली/JJ हुई/VFM तिजोरी/NNC के/PREP जैसी/RP होती/VFM है/VAUX ./SYM 
+सुनो/VFM तुम/PRP ./SYM नाटक/NN मत/NEG करो/VFM संक्जे/VFM ?/PUNC फूटो/VFM यहाँ/PRP से/PREP ./SYM चलो/VFM ./SYM 
+अरे/INJ ?/PUNC हम/PRP कोई/QW बम/NN हैं/VFM जो/PRP फूट/VFM जाएँगे/VAUX ?/PUNC समझने/NN की/PREP कोशिश/NN कीजिए/VFM ./SYM इसके/PRP पहले/JJ की/VFM कोई/PRP आपका/PRP घालत/JJ फयडा/Unk उठा/VAUX ले/VAUX ,/PUNC हम/PRP सोचे/VFM की/PREP हम/PRP हेल्प/Unk कर/VFM देते/VJJ हैं/VAUX ./SYM 
+रात/NN को/PREP यहाँ/PRP मत/NEG रहने/VNN देना/NN ./SYM तोड़ा/QF कष्ट/NN होगा/VFM तुमको/PRP मगर/CC कहीं/NLOC ले/VFM जाओ/VFM इसको/Unk ./SYM 
+हन/INJ और/CC कोई/PRP उपाय/NN भी/RP नहीं/NEG है/VFM ./SYM 
+ज़्यादा/QF स्मार्ट/Unk बनने/VFM की/PREP कोशिश/NN मत/NEG करो/VAUX ,/PUNC समझे/VFM ?/PUNC चलो/VFM निकलो/VFM यहाँ/PRP से/PREP ./SYM वेंडर/Unk 
+हड्द/NN हो/VFM गयी/VFM ./SYM मतलब/VFM की/PREP सराफ़ात/NN का/PREP जमाना/NN ही/RP नहीं/NEG रहा/VAUX ./SYM 
+बताओ/VFM
+हम/PRP आपको/PRP सही/JJ जगह/NN ले/VFM जा/VAUX रहे/VAUX है/VAUX और/CC आप/PRP 
+शट/Unk उप/NNC ./SYM छमात/NN मारूँगी/Unk और/CC बकवास/NN की/PREP तो/RP ./SYM 
+खा/VFM ले/VFM छमात/NN ./SYM इसी/PRP बहाने/NN चू/VFM तो/RP लेगी/VAUX कम/INTF से/PREP कम/INTF ./SYM 
+ठीक/NN है/VAUX ./SYM आपको/PRP इसी/PRP में/PREP खुशी/NN मिलती/VFM है/VAUX तो/CC मारिए/VFM हूमें/PRP ./SYM 
+अरमान/NN पुर/VFM कर/VFM लीजिए/VAUX आप/PRP ./SYM मारिए/VFM ./SYM 
+क्या/QW हुआ/VFM ?/PUNC कहाँ/QW चलीं/VFM ?/PUNC अरे/INJ मारिए/VFM ना/INJ नहीं/NEG हम/PRP तो/RP आज/NN छमात/NN खा/VFM के/PREP ही/RP रहेंगे/VFM ./SYM 
+सुनो/VFM
+चल/VFM ./SYM 
+क्या/QW हुआ/VFM ?/PUNC चल/VFM ./SYM 
+एक/QFNUM आदमी/NN मैं/PRP ./SYM फुल/Unk नाइट/Unk ,/PUNC जगह/NN मेरी/PRP ./SYM 
+नहीं/NEG ./SYM मैं/PRP 
+क्या/QW ?/PUNC 
+मैं/PRP वो/PRP नहीं/NEG हूँ/VFM ./SYM 
+क्या/QW नहीं/NEG है/VFM ?/PUNC 
+वोही/PRP
+हन/INJ ?/PUNC 
+अरे/INJ यार/NN तू/PRP बोल/VFM ना/INJ पैसा/VFM मैं/PRP देता/VFM हूँ/VAUX ./SYM नखरा/NN क्यों/QW दिखा/VFM रही/VAUX है/VAUX ?/PUNC 
+ओ/INJ अनारकली/NNP ./SYM सुन/VFM इधर/PRP आ/VFM ./SYM 
+सुन/VFM
+क्यों/QW कसरत/NN करा/VFM रही/VFM है/VAUX रात/NN को/PREP ?/PUNC पैसा/NN बोल/VFM ./SYM जो/PRP भी/RP होगा/VFM मैं/PRP दूँगा/VFM ./SYM रुक/VFM एक/QFNUM मिनिट/NN रुक/VFM 
+अरे/QW ?/PUNC ये/PRP क्या/QW नाटक/NN कर/VFM रही/VAUX है/VAUX ?/PUNC 
+थॅंक/Unk योउ/PRP बाबाजी/NN थॅंक/Unk योउ/PRP ./SYM ओ/INJ गोद/Unk ./SYM आज/NN पता/NVB नहीं/NEG क्या/QW होने/VNN वाला/PREP था/VAUX ./SYM थॅंक/Unk गोद/Unk ./SYM थॅंक/Unk योउ/PRP थॅंक/Unk योउ/PRP थॅंक/Unk योउ/PRP ./SYM 
+फिर/RB से/PREP ट्रेन/NN मिस/Unk कर/VFM डी/NNPC ?/PUNC हन/QW ?/PUNC और/CC ये/PRP जोकर/NN कौन/VFM है/VAUX बिके/NN पे/PREP ?/PUNC 
+ही/RP ./SYM मेरा/PRP नाम/NN गीत/NNP है/VAUX ./SYM 
+आदित्या/NNP ./SYM प्लीज़्ड/Unk तो/RP मीट/Unk योउ/PRP ./SYM और/CC इतनी/QF प्लीज़्ड/Unk बाइ/Unk गोद/Unk मैं/PRP किसी/QW से/PREP मिल/VFM कर/VFM नहीं/NEG हुई/VFM जितनी/QF अभी/RB तुमसे/PRP मिल/VFM कर/VRB हो/VFM रही/VAUX हूँ/VAUX ./SYM क्योंकि/CC वो/PRP तुम/PRP हो/VFM जिसकी/QW वजह/NN से/PREP ये/PRP सारी/QF प्राब्लम/Unk शुरू/NVB हुई/VFM है/VAUX ./SYM कहा/VFM था/VAUX ना/INJ मैने/PRP कोई/PRP डाउट/Unk मत/NEG रखना/VFM ,/PUNC मैं/PRP चूड्दोंगी/VFM नहीं/NEG तुम्हें/PRP  ?/PUNC 
+छ्चोड़ोगे/VFM तुम/PRP मुझे/PRP घर/NN तक/PREP ./SYM तुम्हारे/PRP वॉलेट/Unk में/PREP पैसे/NN हैं/VAUX ,/PUNC देख/VFM लिया/VFM है/VAUX मैने/PRP ./SYM हम/PRP यहाँ/PRP किसी/QW होटेल/NN में/PREP सुबह/NN होने/VNN की/PREP वेट/Unk करेंगे/VFM ,/PUNC फिर/RB कोटा/NNC से/PREP समान/NN उठाएँगे/VFM ,/PUNC फिर/RB ऑल/Unk थे/VAUX वे/PRP तो/RP भटिंडा/NNC ./SYM चलो/VFM 
+आ/VFM जाओ/VFM ,/PUNC आ/VFM जाओ/VFM ./SYM ये/PRP कड़वे/JJ लुक्स/Unk चलते-चलते/RDP भी/RP दे/VFM सकते/VAUX हो/VFM ./SYM कम/JJ ./SYM 
+रतलाम/NNC ./SYM ई/QW मीन/Unk कम/JJ ओं/Unk ./SYM हड्द/NN हो/VFM गयी/VFM यार/INJ ./SYM क्या/QW मतलब/NN है/VAUX इसका/PRP ,/PUNC की/PREP मैं/PRP रतलाम/NNP की/PREP गलियों/NN में/PREP घूम/VFM रही/VAUX हूँ/VAUX ./SYM हैं/VAUX ?/PUNC ट्रेन/NN से/PREP देखती/VFM थी/VAUX मैं/PRP ये/PRP घर/NN ये/PRP गलियाँ/NN ./SYM ज़िंदगी/NN भी/RP कमाल/JJ है/VAUX ,/PUNC हैं/VAUX ना/QW ?/PUNC 
+बहुत/INTF मज़ा/NN आ/VFM रहा/VAUX है/VAUX ना/QW ?/PUNC पिक्निक/Unk पर/PREP आए/VFM हैं/VAUX हम/PRP लोग/NN ./SYM तुम्हें/PRP  उठा/VAUX कर/VFM म्यूज़ीयम/Unk में/PREP रख/VFM देना/VAUX चाहिए/VFM ./SYM तुम्हें/PRP  देखने/VFM के/PREP लिए/PREP टिकेट/NN लगनी/VFM चाहिए/VFM ./SYM 
+आए/VFM है/VAUX ./SYM क्या/QW बात/NN है/VFM ./SYM और/CC तुम्हें/PRP  कहाँ/ रखना/VFM चाहिए/VFM ?/PUNC ट्रेन/NN में/PREP हो/VFM मगर/CC पता/NVB नहीं/NEG ट्रेन/NN कहाँ/QW जाती/VAUX है/VAUX ./SYM अंजान/JJ किसी/QW स्टेशन/NN में/PREP उतार/VFM जाते/VAUX हो/VFM ,/PUNC फिर/RB पागलों/NN की/PREP तरह/CC गाड़ी/NN चला/VFM कर/VRB ऑलमोस्ट/Unk मेरी/PRP जान/NN ले/VFM कर/VRB यहाँ/PRP पहुँचते/VFM हो/VFM ,/PUNC और/CC यहाँ/PRP क्या/QW अंधेरे/JJ रास्ते/NN पर/PREP अकेले/RB चले/VFM जा/VAUX रहे/VAUX हो/VFM रतलाम/NNC की/PREP गलियों/NN में/PREP ./SYM यार/NN तुम्हारी/PRP प्राब्लम/Unk है/VAUX क्या/QW आख़िर/JJ ,/PUNC बता/VFM ही/RP दो/QFNUM अब/RB ./SYM 
+सॉरी/Unk सॉरी/Unk ,/PUNC भूल/VFM गयी/VAUX थी/VAUX ./SYM तुम/PRP अपने/PRP प्रॉब्लम्स/Unk किसी/QW से/PREP शेर/Unk नहीं/NEG करते/VFM ./SYM रिघ्त/Unk ,/PUNC रिघ्त/Unk ./SYM बच्चन/NNC के/PREP फन/NN हो/VFM क्या/QW ?/PUNC आंग्री/Unk यंग/Unk मान/Unk ./SYM आज/NN खुश/NN तो/ बहुत/ होगे/VFM तुम/PRP ./SYM हैं/VAUX ?/PUNC अज्ञीपत/NNC ,/PUNC अज्ञीपत/NNC बताओ/VFM ना/QW ./SYM अच्छा/JJ फॅवुरेट/Unk हीरो/NN कौन/QW है/VAUX तुम्हारा/PRP बोलो/VFM अरे/INJ ये/PRP तो/RP बताओ/VFM ,/PUNC ये/PRP तो/RP कोई/PRP सीक्रेट/NN नहीं/NEG है/VFM 
+क्या/QW कर/VFM रहा/VAUX हूँ/VAUX मैं/PRP ?/PUNC कहाँ/QW आ/VFM गया/VAUX हूँ/VAUX ?/PUNC क्यों/QW ?/PUNC 
+क्रेडिट/Unk कार्ड/Unk आक्सेप्ट/Unk करते/VJJ हो/VFM ?/PUNC 
+क्रेडिट/Unk त्र्रिफ/Unk क्या/QW है/VAUX ?/PUNC 
+क्या/QW ?/PUNC 
+दिन/NN के/PREP कितने/QF पैसे/NN लेते/VFM हो/VFM एक/QFNUM रूम/NN के/PREP लिए/PREP ?/PUNC 
+आपको/PRP रूम/NN घंटे/NN के/PSP हिसाब/NN से/PREP चाहिए/VFM ?/PUNC 
+जितना/QF पूच/VFM रहा/VAUX हूँ/VAUX उतना/QF ही/RP बोलो/VFM ./SYM एक/QFNUM दिन/NN का/PREP कितना/QF चार्ज/NN है/VAUX ?/PUNC 
+दिन/NN भर/RB के/PREP लिए/PREP क्यों/QW चाहिए/VFM ?/PUNC हूमें/PRP कौन/QW सा/RP दिन/NN भर/RB रहना/VNN है/VAUX ?/PUNC 
+सुनो/VFM ./SYM मैं/PRP बात/NN कर/VFM रहा/VAUX हूँ/VAUX ./SYM 
+हन/INJ ,/ बहुत/ कमाल/JJ बात/NN कर/VFM रहे/VAUX हो/VFM ./SYM पैसे/NN पहले/PREP से/PREP कम/JVB हैं/VAUX और/CC हूमें/PRP रूम/NN घंटे/NN के/PREP हिसाब/NN से/PREP चाहिए/VFM ./SYM 
+बे/Unk प्रॅक्टिकल/Unk यार/NN ./SYM इसमें/PRP शरम/NN की/PREP क्या/QW बात/NN है/VFM ./SYM हूमें/PRP कुछ/QF ही/RP घंटों/NN का/PREP काम/NN है/VFM ./SYM हम/PRP पेर/Unk अवर/Unk पे/PSP रूम/NN लेंगे/VFM ./SYM 
+कितने/QW घंटे/NN के/PREP लिए/PREP ?/PUNC 
+दो/QFNUM ?/PUNC दो/QFNUM घंटे/NN काफ़ी/Unk होंगे/VFM ?/PUNC 
+अच्छा/JJ चलो/VFM सेफ/Unk साइड/Unk टीन/Unk घंटे/NN ./SYM टीन/Unk घंटे/NN तो/RP मोरे/Unk तन/Unk एनफ/Unk हैं/VAUX ./SYM 
+टीन/Unk घंटे/NN ./SYM 
+ओके/Unk ./SYM 
+कहाँ/QW मिली/VFM ?/PUNC 
+ट्रेन/NN में/PREP ./SYM 
+ट्रेन/NN में/PREP भी/RP ?/PUNC ट्रेन/NN में/PREP ?/PUNC आइडिया/Unk है/VAUX ./SYM 
+वैसे/Unk ये/PRP कैसी/QW लगी/VFM ?/PUNC 
+कद्दक़/JJ है/VAUX ./SYM ब्यूटी/NN ./SYM 
+थॅंक/Unk योउ/PRP ./SYM 
+क्या/QW ख़ुसर-फुसर/RDP कर/VFM रहे/VAUX थे/VAUX उसके/PRP साथ/NN ?/PUNC 
+तुम/PRP बहुत/INTF बड़ी/QF कार्टून/NN हो/VFM ./SYM पता/NVB है/VFM तुम्हें/PRP  ?/PUNC 
+हो/VFM सकता/VAUX है/VAUX ./SYM मगर/CC मुझे/PRP करते/VJJ आता/VFM है/VAUX ./SYM 
+तो/RP ?/PUNC 
+बस/ ,/PUNC बता/VFM रही/VAUX हूँ/VAUX ./SYM ब्राउन/JJ बेल्ट/NN हूँ/VAUX मैं/PRP ./SYM 
+ओह/INJ ,/PUNC तुम्हें/PRP  करते/VJJ आता/VFM है/VAUX ,/PUNC मतलब/NN अगर/CC मैं/PRP तुम्हें/PRP  रेप/NN करने/VNN की/PREP कोशिश/NN करूँ/VFM तो/RP तुम्हें/PRP  मुझे/PRP करते/VJJ कर/VFM डोगी/VAUX ./SYM 
+हो/VFM सकता/VAUX है/VAUX ./SYM ई/Unk मीन/Unk एस/NNPC ./SYM बिल्कुल/INTF ./SYM देखने/Unk में/PREP ऐसी/Unk लगती/Unk हूँ/VAUX मगर/CC  बड़े/Unk सारे/Unk लोगों/NN को/PREP मार/VFM गिराया/Unk है/VAUX मैने/PRP ./SYM 
+डोंट/Unk वरी/Unk ./SYM मैं/PRP तुम्हें/PRP  रेप/Unk नहीं/NEG करने/VNN वाला/PREP हूँ/VAUX ./SYM 
+तुम्हें/PRP  कर/VFM ही/RP नहीं/NEG सकते/VAUX हो/VFM ./SYM 
+मैं/PRP करना/VNN चाहता/VFM ही/RP नहीं/NEG हूँ/VAUX ./SYM 
+चाहो/NN भी/RP तो/RP नहीं/NEG कर/VFM सकते/VAUX ./SYM 
+तुम्हें/PRP  क्या/QW मुझे/PRP चाबी/NN लगा/VFM रही/VAUX हो/VFM ?/PUNC की/PREP मैं/PRP रेप/NN अटेंप्ट/Unk करूँ/VFM ?/PUNC 
+नहीं/NEG मैं/PRP बस/QF क्लियर/Unk कर/VFM रही/VAUX हूँ/VAUX ./SYM तुम्हें/PRP कोई/PRP रॉंग/Unk सिग्नल/Unk ना/NEG मिले/VFM ./SYM स्टेशन/NN के/PREP बाहर/NLOC मैने/PRP तुम्हें/PRP हग/NN किया/VFM और/CC कहा/VFM किसी/PRP होटेल/NN में/PREP चलते/VFM हैं/VAUX ./SYM पता/NVB नहीं/NEG तुम्हें/PRP  क्या/QW सोच/Unk रहे/VAUX होगे/Unk वो/PRP भी/RP तुम्हारे/PRP जैसा/Unk आदमी/NN ./SYM 
+मेरे/PRP जैसा/CC आदमी/NN मतलब/VFM ?/PUNC 
+बॉमबे/NNP में/PREP घूमती/VFM होंगी/VAUX तुम्हारे/PRP आस/PREP पास/PREP उस/PRP टाइप/Unk की/PREP गर्ल्स/Unk ./SYM मगर/CC  मैं/PRP बता/VFM डून/Unk की/PREP मैं/PRP बिल्कुल/INTF वैसी/RB नहीं/NEG हूँ/VAUX ./SYM सोचना/VFM भी/RP मत/NEG ./SYM ओल्ड/Unk फॅशंड/Unk हूँ/VAUX मैं/PRP वन/Unk मान/Unk वुमन/Unk ./SYM और/CC ये/PRP देखो/VFM अंशुमन/NNP वन/Unk आंड/CC ओन्ली/Unk ,/PUNC हमेशा/NN के/PREP लिए/PREP ./SYM 
+तुम्हें/PRP सुन/VFM के/PREP खुशी/Unk होगी/VFM की/PREP मैं/PRP भी/RP वन/Unk वुमन/Unk मान/Unk हूँ/VAUX ./SYM ओके/Unk ?/PUNC और/CC ये/PRP ये/PRP देखो/VFM ./SYM 
+वाउ/Unk ./SYM मस्त/JJ है/VAUX यार/NN ./SYM बड़े/QF लकी/JJ हो/VFM आदित्या/NNP टेक्स/Unk थे/VAUX वॉलेट/Unk बॅक/Unk ,/PUNC टेक्स/Unk थे/VAUX फोटो/NN आउट/NN ./SYM 
+नहीं/NEG लकी/JJ नहीं/NEG हूँ/VAUX ./SYM 
+ह्म/QW ?/PUNC 
+ओह/INJ ये/PRP प्राब्लम/Unk है/VAUX ./SYM इस/PRP लड़की/NN ने/PREP तुम्हें/PRP डंप/Unk किया/VFM है/VAUX ./SYM 
+ज़िंदगी/NN ने/PREP ही/RP मुझे/PRP डंप/Unk कर/VFM दिया/VAUX ./SYM 
+मतलब/NN ?/PUNC 
+ओ/PRP गोद/NN ./SYM थे/VAUX फेमस/Unk साइलेन्स/Unk आंड/CC ऑल/Unk ./SYM इतना/QF बड़ा/QF क्या/QW सीक्रेट/Unk है/VAUX तुम्हारा/Unk ?/PUNC मैने/PRP तो/RP सब/INTF कुछ/QF बता/VFM दिया/VAUX तुम्हें/PRP ./SYM तुम्हें/PRP  क्यों/QW नहीं/NEG बोल/VFM सकते/VAUX ?/PUNC 
+एनीवे/Unk ./SYM देखो/VFM ./SYM देखो/VFM इसको/Unk ./SYM इस/PRP लड़की/NN ने/PREP तुम्हें/PRP डिच/VFM किया/VFM है/VAUX ना/QW ?/PUNC पकड़ो/VFM एक/QFNUM मिनिट/VFM ./SYM 
+ये/PRP लो/VFM ./SYM जला/VFM दो/VAUX इसे/PRP ./SYM 
+नहीं/NEG नहीं/NEG ./SYM जलाओ/VFM फोटो/NN ./SYM 
+बच्चों/NN जैसी/RP बात/NN मत/NEG करो/VFM ./SYM 
+मैं/PRP बता/VFM रही/VAUX हूँ/VAUX ,/PUNC बच्चों/NN जैसी/RP बात/NN करो/VFM ,/PUNC जला/VFM दो/VAUX फोटो/NN ./SYM तुम्हें/PRP बहुत/INTF अच्छा/JJ लगेगा/VFM ./SYM बिलीव/Unk मे/Unk ./SYM जला/VFM दो/VAUX साली/Unk को/PREP ./SYM ये/PRP लो/Unk माचिस/Unk जलाओ/VFM जलाओ/VFM नो/Unk टेन्षन/Unk ./SYM ओके/Unk ./SYM अब/RB बातरूम/Unk में/PREP जाओ/VFM ./SYM और/CC हमेशा/QF हमेशा/QF के/PREP लिए/PREP अपनी/PRP ज़िंदगी/NN से/PREP इसे/PRP फ्लश-आउट/Unk कर/VRB दो/QFNUM ./SYM जाओ/VFM ./SYM 
+बेटर/Unk लग/VFM रहा/VAUX है/VAUX ?/PUNC हन/QW ?/PUNC 
+योउ/PRP नो/Unk ,/PUNC आक्च्युयली/CC अच्छा/JVB लग/VFM रहा/VAUX है/VAUX मुझे/PRP ./SYM ये/PRP बेवकूफी/NN का/PREP काम/NN कर/VFM के/PREP योउ/PRP वर/Unk रिघ्त/Unk ./SYM 
+देखा/VFM आदित्या/NNP स्माइल्स/Unk ./SYM 
+और/CC मैं/PRP तुम्हें/PRP सच/NN बताऊं/VFM ?/PUNC देखने/VFM में/PREP बुरे/JJ नहीं/NEG हो/VFM तुम्हें/PRP  ./SYM हॅंडसम/JJ हो/VFM यार/NN ./SYM अमीर/JJ भी/RP लगते/VFM हो/VFM ./SYM इस/ से/ तो/ बहुत/ बेटर/Unk लड़की/NN मिल/VFM जाएगी/VAUX तुम्हें/PRP ये/PRP तो/RP शीत/Unk थी/VAUX तुम्हारे/PRP आयेज/Unk ./SYM 
+बता/VFM रही/VAUX हूँ/VAUX मैं/PRP ./SYM मैं/PRP लड़की/NN हूँ/VAUX की/PREP नहीं/NEG ?/PUNC कोई/PRP भी/RP लड़की/NN तुम्हारे/PRP ऊपर/PREP फ्लॅट/Unk हो/VFM सकती/VAUX है/VAUX ./SYM तुम्हें/PRP  उस/PRP टाइप/Unk के/PREP हो/VFM की/PREP देखो/VFM ,/PUNC मैं/PRP अंशुमन/NNP से/PREP शादी/NN करने/VNN वाली/PREP हूँ/VAUX आंड/CC ऑल/Unk तट/Unk बुत/Unk अगर/Unk वो/PRP मेरी/PRP लाइफ/NN में/PREP नहीं/NEG होता/VFM तो/CC योउ/PRP नेवेर/Unk नो/Unk शायद/RB मैं/PRP भी/RP तुमसे/PRP पाट/Unk जाती/VAUX ./SYM जस्ट/Unk इमॅजिन/Unk ./SYM 
+क्या/QW हुआ/VFM ?/PUNC 
+तुम्हें/PRP  अपने/PRP आप/PRP  को/PREP बहुत/INTF पसंद/Unk हो/VFM ,/PUNC नहीं/NEG ?/PUNC 
+बहुत/INTF मैं/PRP अपनी/PRP फॅवुरेट/Unk हूँ/VAUX ./SYM 
+क्या/QW हुआ/VFM ?/PUNC 
+ई/PRP विश/Unk मैं/PRP तुम्हारे/PRP जैसा/CC होता/VFM ./SYM 
+वो/PRP तो/ बहुत/ मुश्किल/JJ है/VAUX ./SYM मगर/CC  इस/PRP से/PREP बेटर/JJ लड़की/NN मिल/VFM जाएगी/VAUX इसकी/PRP गॅरेंटी/NN है/VAUX ./SYM 
+तुम्हें/PRP  दिला/VFM देना/VAUX फिर/RB कोई/QF अच्छी/JVB वाली/PREP ./SYM 
+अच्छा/JJ एक/QFNUM बात/NN बताओ/VFM ,/PUNC मैं/PRP तुम्हें/PRP कैसी/QW लगती/Unk हूँ/VAUX ?/PUNC 
+देखो/VFM ,/PUNC देखो/VFM मुझे/PRP ./SYM योउ/PRP लीके/Unk मे/Unk ?/PUNC 
+क्यों/QW पूच/Unk रही/VFM हो/VFM ?/PUNC 
+उठो/RDP उठो/RDP ,/PUNC दरवाज़ा/NN खोलो/VFM ,/PUNC जल्दी/RB 
+अरे/INJ उठ/VFM जाओ/VAUX ,/PUNC भागो/VFM ,/PUNC निकलो/VFM यहाँ/PRP से/PREP ./SYM जल्दी/RB दरवाज़ा/NN खोलो/VFM ./SYM 
+कैसी/QW राइड/NN ?/PUNC 
+पोलीस/NN की/PREP राइड/Unk और/CC क्या/QW भागो/VFM भागो/VFM 
+क्या/QW हो/VFM रहा/VAUX है/VAUX ?/PUNC 
+भागना/VFM पड़ेगा/VFM ./SYM 
+क्यों/QW ?/PUNC 
+तो/RP ?/PUNC 
+चलो/VFM ./SYM 
+सब/QF लोग/NN सीधे/Unk से/PREP नीचे/NST भागो/VFM ,/PUNC मैं/PRP पीछे/PREP का/PREP गाते/Unk खोल/Unk दूँगा/Unk ./SYM और/CC श/Unk साइलेंट/Unk से/PREP ./SYM 
+अरे/INJ ,/PUNC मगर/CC  सुनो/VFM तो/RP ./SYM गीत/NNP आंड/CC आदित्या/NNP ऋण/Unk डाउन/Unk थे/VAUX कॉरिडर/Unk वित/Unk थे/VAUX अदर्स/Unk ./SYM 
+चक्कर/Unk क्या/QW है/VAUX ?/PUNC हम/PRP स्मग्लर्स/Unk की/PREP आक्टिंग/Unk क्यों/QW कर/VFM रहे/VAUX हैं/VAUX ?/PUNC 
+अगली/JJ बार/NN कुछ/QF सूटकेस/NN टाइप/Unk लाना/Unk साथ/NN में/PREP तोड़ा/Unk समान/Unk ,/PUNC पोलीस/Unk को/PREP दिखाने/VFM के/PREP लिए/PREP ,/PUNC की/PREP हन/QW भाई/NN जेंट्री/Unk है/VAUX ./SYM 
+त्च/Unk ,/PUNC मेरा/PRP सारा/Unk समान/Unk ट्रेन/NN में/PREP जो/PRP छ्छूट/Unk गया/VAUX ./SYM 
+ट्रेन/NN वाली/PREP पहली/JJ बार/NN देखी/NVB है/VFM ./SYM ट्रेन/NN में/PREP ही/RP कूप/Unk क्यों/QW नहीं/NEG बुक/Unk कर/VFM लेते/Unk ?/PUNC होता/VFM है/VAUX ना/Unk जिसमें/PRP ओन्ली/Unk दो/QFNUM लोग/NN सोते/Unk हैं/VAUX ?/PUNC 
+अगली/JJ बार/NN बताऊँगा/Unk ./SYM 
+बोल/VFM क्या/QW रहा/VAUX है/VAUX ये/PRP ?/PUNC 
+प्लीज़/Unk बाबाजी/NN ,/PUNC अब/RB तो/RP हड्द/NN पार/NNC हो/VFM चुकी/VAUX है/VAUX ./SYM अब/RB इस/PRP रात/Unk में/PREP और/CC कोई/PRP एग्ज़ाइट्मेंट/Unk मत/NEG देना/NN ./SYM बोरिंग/Unk बना/VFM दो/QFNUM जी/NNPC अब/RB इस/PRP रात/Unk को/PREP प्लीज़/Unk ./SYM 
+बस/QF चे/Unk बजे/NN चलेगी/Unk ./SYM नींद/NN आ/VFM रही/VAUX है/VAUX ?/PUNC 
+नहीं/NEG ./SYM तुम्हें/PRP ?/PUNC 
+तुम्हें/PRP  क्यों/QW पूच/Unk रही/VAUX थी/VAUX ?/PUNC की/PREP मैं/PRP तुम्हें/PRP लीके/Unk करता/VFM हूँ/VAUX या/CC नहीं/NEG ?/PUNC 
+अरे/INJ हन/QW ,/PUNC बताओ/VFM ./SYM मैं/PRP कैसी/QW लगती/Unk हूँ/VAUX ./SYM 
+मगर/CC  क्यों/QW ?/PUNC 
+ओह/INJ हो/VFM ./SYM क्यों/QW का/PREP कोई/QW जवाब/NN नहीं/NEG होता/VFM ,/PUNC तुम्हें/PRP  बस/QF बताओ/VFM ./SYM अच्छी/JVB लगती/Unk हूँ/VAUX ?/PUNC फाटाक/Unk ?/PUNC मस्त/Unk ?/PUNC जल्दी/RB बोलो/VFM जल्दी/RB ,/PUNC जल्दी/RB ./SYM 
+हन/QW ./SYM 
+हन/QW ?/PUNC 
+हन/QW ./SYM 
+ग्रेट/Unk ./SYM तुम्हें/PRP  मुझे/PRP लीके/Unk करते/VJJ हो/VFM तो/CC मेरी/PRP सिस्टर/Unk को/PREP भी/RP लीके/Unk करोगे/VFM ./SYM रूप/NN ,/PUNC मेरी/PRP कज़िन/Unk ./SYM बिल्कुल/INTF मेरे/PRP जैसी/RP है/VFM ./SYM बात/NN सुनो/VFM मैं/PRP बहुत/INTF जल्दी/RB भागने/Unk वाली/PREP हूँ/VAUX अंशुमन/NNP के/PREP साथ/NN ./SYM तुम्हें/PRP  और/CC रूप/NN भी/RP साथ/NN में/PREP भाग/NVB लो/Unk ./SYM तुम्हारी/PRP भी/RP प्राब्लम/Unk सेम/Unk है/VAUX ,/PUNC दादाजी/NN मानेंगे/VFM नहीं/NEG ./SYM और/CC उसके/PRP बाद/PREP चारों/Unk इकट्ठे/Unk रहेंगे/VAUX पहाड़ों/Unk में/PREP बड़ा/QF मज़ा/NN आएगा/VFM ,/PUNC वॉट/Unk दो/QFNUM योउ/PRP से/PREP ?/PUNC 
+हम/PRP ऐसा/PRP क्यों/QW ना/NEG करें/VFM ,/PUNC की/PREP तुम्हें/PRP  और/CC मैं/PRP भाग/NN जाते/VFM हैं/VAUX ./SYM शादी/NN करते/VJJ हैं/VAUX ,/PUNC और/CC रहते/Unk हैं/VAUX पहाड़ों/Unk पर/PREP ./SYM कन्वीनियेंट/Unk ऑप्षन/Unk है/VAUX ,/PUNC देखो/VFM ./SYM अगर/Unk हम/PRP अभी/RB भटिंडा/NNP नहीं/NEG जाएँ/Unk ,/PUNC तो/CC भाग/NN ही/RP गये/VAUX ना/Unk हम/PRP ?/PUNC 
+देखो/VFM ./SYM अगर/Unk तुम्हें/PRP  रूप/NN से/PREP शादी/NN करते/VJJ हो/VFM ,/PUNC तो/CC मैं/PRP तुम्हारी/PRP साली/Unk बनती/VFM हूँ/VAUX आधी/JJ घरवाली/JJ ./SYM आदित्या/NNP 
+आधी/JJ का/PREP क्या/QW करूँगा/Unk ?/PUNC मुझे/PRP पूरी/QF चाहिए/VFM ./SYM 
+मिल/VFM रही/VFM है/VAUX ना/Unk रूप/NN पूरी/QF की/PREP पूरी/QF ./SYM और/CC ऊपर/NST से/PREP मैं/PRP आधी/JJ ./SYM 
+बारगेन/JJ ऑफर/Unk है/VAUX ?/PUNC 
+एक/QFNUM के/PREP साथ/NN आधी/JJ मुफ़्त/NN ,/PUNC मुफ़्त/Unk ,/PUNC मुफ़्त/Unk 
+तुमसे/PRP शादी/NN करता/VFM हूँ/VAUX तब/RB भी/RP तो/RP ऑफर/NN वालिद/VFM है/VAUX ./SYM 
+मैं/PRP तुमसे/PRP अपनी/PRP बहें/Unk के/PREP रिश्ते/Unk की/PREP बात/NN कर/VFM रही/VAUX हूँ/VAUX ,/PUNC तुम्हें/PRP  मुझे/PRP लाइन/NN मार/VFM रहे/VAUX हो/VFM ?/PUNC 
+मैं/PRP तुम्हें/PRP लीके/Unk करता/VFM हूँ/VAUX तो/CC उस/PRP से/PREP शादी/NN क्यों/QW करूँ/VFM ?/PUNC 
+बता/VFM तो/RP रही/VFM हूँ/VAUX वो/PRP बिल्कुल/INTF मेरे/PRP जैसी/RP है/VFM ./SYM 
+तुम्हें/PRP  हमेशा/QF ऐसे/PRP बकवास/NN करती/VFM हो/VFM या/CC आज/NN कोई/QF स्पेशल/Unk अकेशन/Unk है/VAUX ./SYM 
+नहीं/NEG मैं/PRP तो/RP हमेशा/QF बकवास/NN करती/VFM हूँ/VAUX ./SYM तुम्हें/PRP  ?/PUNC 
+मेरी/PRP फर्स्ट/Unk टाइम/NN है/VAUX ./SYM 
+भटिंडा/NNP चल/VFM ,/PUNC मिलवाटी/Unk हूँ/VAUX ./SYM 
+तुम्हें/PRP  तो/RP कमाल/JJ हो/VFM यार/NN ./SYM मैने/PRP अपनी/PRP लाइफ/NN में/PREP किसी/QW को/PREP इतना/QF अच्छा/JJ गाते/Unk हुए/VAUX नहीं/NEG दसुना/VFM ./SYM तुम्हिएं/Unk तो/RP सिंगर/Unk होना/VNN चाहिए/VFM ./SYM 
+सब/INTF कुछ/QF जो/PRP इंसान/NN चाहता/VFM है/VAUX ,/PUNC वो/PRP मिलता/ कहाँ/QW है/VAUX यार/NN ?/PUNC 
+क्यों/QW ?/PUNC मुझे/PRP तो/RP लगता/VFM है/VAUX की/PREP इंसान/NN जो/PRP कुछ/QF भी/RP रियल/Unk में/PREP चाहता/VFM है/VAUX ना/Unk ,/PUNC आक्चुयल/Unk में/PREP ,/PUNC उसको/Unk लाइफ/NN में/PREP वोही/Unk मिलता/ है/ ./SYM 
+एक/QFNUM टाइम/NN था/VAUX जब/RB मैं/PRP रियल/Unk में/PREP चाहता/VFM था/VAUX ,/PUNC आक्चुयल/Unk में/PREP ./SYM म्यूज़िक/Unk से/PREP बड़ा/QF पॅशन/Unk नहीं/NEG था/VAUX मेरी/PRP लाइफ/NN में/PREP ./SYM 
+लाइफ/NN ख़तम/VFM हो/VFM चुकी/VAUX है/VAUX तुम्हारी/PRP ?/PUNC बात/NN ऐसे/PRP कर/VFM रहे/VAUX हो/VFM जैसे/PRP मार/VFM चुके/VAUX हो/VFM ./SYM 
+मारा/PRP तो/RP नहीं/NEG हूँ/VAUX ./SYM मगर/CC  अब/RB म्यूज़िक/Unk उसीक/Unk नहीं/NEG हो/VFM सकता/VAUX मेरी/PRP लाइफ/NN में/PREP ./SYM 
+क्यों/QW ?/PUNC क्यों/QW नहीं/NEG हो/VFM सकता/VAUX ?/PUNC ऐसी/RB क्या/QW मजबूरी/NN है/VAUX ,/PUNC बताओ/VFM मुझे/PRP ./SYM 
+ओ/Unk गोद/Unk ./SYM ओके/Unk यार/NN ,/PUNC ओके/Unk ./SYM मत/NEG बताओ/VFM ./SYM मगर/CC  फिर/RB से/PREP आंग्री/Unk यंग/Unk मान/Unk मत/NEG बन/VFM जाओ/VFM ,/PUNC ओके/Unk ?/PUNC 
+मैं/PRP ही/RP बात/NN शुरू/NVB करती/VFM हूँ/VAUX ./SYM 
+पानी/NN अच्छा/JVB है/VFM ना/QW ./SYM 
+हन/QW ./SYM 
+कभी/RB किसी/PRP पेड़/NN से/PREP नहेर/Unk में/PREP जंप/Unk लगाई/Unk है/VAUX तुमने/PRP ?/PUNC 
+गीत/NNP ,/PUNC चलो/VFM अब/RB नीचे/NST उतरते/Unk हैं/VFM ./SYM कम/JJ ओं/Unk ./SYM 
+ट्राइ/VFM करना/VNN चाहिए/VFM ./SYM बहुत/INTF मज़ा/NN आएगा/VFM ./SYM चलो/VFM ./SYM 
+गीत/NNP ,/PUNC गीत/NNP ./SYM मैं/PRP तुमसे/PRP पूछना/Unk चाहता/VFM था/VAUX ./SYM कभी/RB साइकिट्रिस्ट/Unk को/PREP कन्सल्ट/Unk किया/VFM है/VAUX तुमने/PRP ?/PUNC 
+तुम्हें/PRP ज़रूरत/NN है/VAUX ./SYM 
+बकवास/NN बंद/NVB करो/VFM आंड/CC जंप/Unk ./SYM 
+सोचो/VFM ,/PUNC ऐसा/PRP काम/NN करने/VNN का/PREP मौका/NN शायद/RB फिर/RB कभी/RB ना/Unk मिले/VFM ./SYM 
+अरे/INJ करना/VNN ही/RP नहीं/NEG है/VAUX ऐसा/PRP काम/NN ./SYM पागल/JJ जैसी/RP बातें/Unk मत/NEG करो/VFM ./SYM 
+तुमने/PRP बचपाना/Unk ट्राइ/Unk किया/VFM ना/Unk ?/PUNC मज़ा/NN आया/VFM ना/QW ?/PUNC अब/RB पागलपन/Unk ट्राइ/Unk करो/VFM ./SYM 
+गीत/NNP सुनो/VFM ,/PUNC गीत/NNP रियली/Unk मान/NN ,/PUNC गीत/NNP 
+इधर/PRP देखना/VFM मत/NEG ./SYM 
+धरमराज/NNP कश्यप/NNP का/PREP नाम/NN दसुना/VFM है/VAUX ?/PUNC 
+थे/VAUX इंडस्ट्रियलिस्ट/Unk ?/PUNC ऑफ/NNPC कोर्स/Unk ./SYM जो/PRP मार/VFM गया/VAUX लास्ट/Unk एअर/Unk ./SYM क्यों/QW ?/PUNC 
+मैं/PRP उनका/PRP बेटा/Unk हूँ/VAUX ./SYM 
+तुम्हें/PRP  आदित्या/NNP कश्यप/NNP हो/VFM ?/PUNC 
+योउ/PRP अरे/INJ थे/VAUX कश्यप/NNP ?/PUNC वो/PRP तुम्हारी/PRP मा/NN थी/VAUX जो/PRP किसी/QW के/PREP साथ/PREP भाग/NVB गयी/VFM थी/VAUX ?/PUNC 
+हन/QW ,/PUNC मेरी/PRP मा/NN थी/VAUX ./SYM जो/PRP भाग/NN गयी/VFM थी/VAUX किसी/PRP के/PREP साथ/NN ./SYM 
+वो/PRP यार/NN ,/PUNC न्यूज़-व्यूस/Unk में/PREP इसी/PRP तरह/RB की/PREP लॅंग्वेज/Unk में/PREP दसुना/VFM था/VAUX ना/Unk ./SYM वैसे/Unk ही/RP निकल/Unk गया/VAUX ./SYM इम/Unk रियली/Unk सॉरी/Unk यार/NN ./SYM रियली/Unk ./SYM 
+नो/Unk गीत/NNP ./SYM मुझे/PRP सुनना/VFM पड़ेगा/VFM ./SYM तुम्हें/PRP  क्यों/QW सॉरी/Unk बोल/VFM रही/VFM हो/VFM ?/PUNC किसी/PRP की/PREP मा/NN अगर/Unk इतनी/QF चीप/Unk है/VAUX ,/PUNC इतनी/QF गिरी/Unk हुई/VFM हरकत/Unk कर/VFM सकती/VAUX है/VAUX तो/CC 
+मिस्टर/Unk कश्यप/NNP ,/PUNC आपको/Unk उनके/PRP बारे/NN में/PREP इतनी/QF बूड़तमीज़ी/Unk से/PREP बात/NN नहीं/NEG करनी/VFM चाहिए/VFM ./SYM 
+क्यों/QW नहीं/NEG करनी/VFM चाहिए/VFM ,/PUNC हन/QW ?/PUNC उस/PRP औरत/Unk ने/PREP हमारी/PRP फॅमिली/NN को/PREP डेस्ट्राय/Unk कर/VFM दिया/VAUX ,/PUNC ज़िंदगी/NN भर/Unk के/PREP लिए/PREP मुझे/PRP सारी/Unk दुनिया/NN के/PREP आयेज/Unk शर्मिंदा/PSP कर/VFM दिया/VAUX ,/PUNC मैं/PRP क्यों/QW नहीं/NEG बूड़तमीज़ी/Unk से/PREP बात/NN करूँ/VFM ?/PUNC 
+क्योंकि/CC वो/PRP प्यार/NN में/PREP थी/VAUX यार/NN ./SYM 
+प्यार/NN ?/PUNC अरे/INJ योउ/PRP सीरीयस/Unk ?/PUNC 
+देखो/VFM ,/PUNC तुम्हारी/PRP मदर/Unk हैं/VAUX ,/PUNC उनके/PRP बारे/NN में/PREP ये/PRP बातें/Unk समझना/VNN मुश्किल/Unk है/VAUX ,/PUNC मगर/CC  उसने/PRP ऐसा/PRP किया/VFM तो/CC ज़रूर/Unk उस/PRP आदमी/NN के/PREP प्यार/NN में/PREP होगी/VFM ./SYM और/CC जब/RB कोई/PRP प्यार/NN में/PREP होता/VFM है/VAUX तो/CC कोई/PRP सही-घालत/Unk नहीं/NEG होता/VFM ./SYM 
+किसने/Unk बताया/VFM तुम्हें/PRP ये/PRP सब/INTF ?/PUNC किस/QW घटिया/JJ नॉवेल/Unk में/PREP तुमने/PRP ये/PRP लाइन्स/Unk पढ़ी/Unk हैं/VAUX ?/PUNC 
+सब/QF लोग/NN कहते/VFM हैं/VAUX ./SYM ऑल/Unk इस/PRP फेर/Unk इस/PRP लोवे/Unk ./SYM 
+झूट/NN कहते/VFM हैं/VAUX सब/INTF ./SYM इट्स/Unk ऑल/Unk बुल-शीत/Unk ./SYM समझी/Unk तुम्हें/PRP  ?/PUNC 
+समझ/Unk गयी/VFM ./SYM 
+सुनो/VFM ./SYM तुम्हें/PRP  तो/RP बहुत/INTF ही/RP अमीर/Unk निकले/Unk यार/NN ./SYM प्लीज़/Unk मेरी/PRP बहें/Unk के/PREP साथ/PREP भाग/NVB जाओ/VFM ./SYM 
+हम/PRP सबकी/Unk लाइफ/NN सेट/Unk हो/VFM जाएगी/VAUX ./SYM 
+आ/VFM गयी/VFM ,/PUNC आ/VFM गयी/VFM गीत/NNP आ/VFM गयी/VFM टाई/Unk जी/NNPC ./SYM 
+सो/Unk ?/PUNC क्या/QW प्लान/Unk है/VAUX ?/PUNC 
+देखता/VFM हूँ/VAUX ./SYM 
+तुम्हें/PRP  मेरे/PRP साथ/NN अंदर/PREP चलो/VFM ./SYM 
+नहीं/NEG ./SYM मैं/PRP चलता/VFM हूँ/VAUX ./SYM 
+कहाँ/QW जाओगे/VFM ?/PUNC 
+नहीं/NEG ,/PUNC तुम्हें/PRP  अंदर/PREP चलो/VFM ./SYM मैं/PRP तुम्हें/PRP ऐसे/PRP नहीं/NEG जाने/VNN दे/VFM सकती/VAUX ./SYM चलो/VFM ./SYM 
+गीत/NNP ,/PUNC रियली/Unk ./SYM मैं/PRP नहीं/NEG आ/VFM सकता/VAUX ./SYM मेरा/PRP 
+देखो/VFM मेरी/PRP फॅमिली/NN आ/VFM गयी/VFM है/VAUX ./SYM इनके/Unk आयेज/Unk सीन/Unk मत/NEG क्रियेट/Unk करना/VFM ./SYM तुम्हें/PRP  कुछ/QF देर/NN यहाँ/PRP रहो/Unk ./SYM मैं/PRP तुमसे/PRP बात/NN करना/VNN चाहती/VFM हूँ/VAUX ,/PUNC उसके/PRP बाद/PREP तुम्हें/PRP  चले/VFM जाना/VAUX ./SYM 
+देखो/VFM तो/RP कैसी/QW पागल/JJ है/VAUX 
+पाेरी-पएँा/Unk दादाजी/NN ./SYM 
+मुंडा/NN कौन/QW है/VAUX ?/PUNC 
+जी/NNPC मेरा/PRP फ्रेंड/NN है/VAUX दादाजी/NN ./SYM 
+किस/QW तरह/RB का/PREP फ्रेंड/NN है/VAUX ?/PUNC 
+दादाजी/NN ,/PUNC वैसी/PRP कोई/QW बात/NN नहीं/NEG है/VFM ./SYM 
+कैसी/QW बात/NN नहीं/NEG है/VFM ?/PUNC 
+मतलब/NN बस/QF फ्रेंड/NN है/VAUX ./SYM 
+तो/RP घर/NN क्यों/QW ले/VAUX आई/VFM है/VAUX ?/PUNC 
+वो/PRP तो/RP ऐसा/PRP है/VAUX दादाजी/NN की/PREP मैं/PRP इसे/PRP घर/NN नहीं/NEG लाई/Unk हूँ/VAUX ./SYM घर/NN ये/PRP लाया/VFM है/VAUX मुझे/PRP ./SYM मेरी/PRP ना/Unk ट्रेन/NN छ्छूट/Unk गयी/VFM थी/VAUX एक/QFNUM स्टेशन/Unk पर/PREP ,/PUNC रात/Unk को/PREP ./SYM अगर/Unk ये/PRP नहीं/NEG होता/VFM ना/Unk आप/PRP  तो/RP जानते/Unk हो/VFM ,/PUNC अकेली/Unk लड़की/NN खुली/JJ हुई/VFM तिजोरी/Unk होती/VFM है/VAUX ./SYM मैं/PRP इसे/PRP जानती/Unk भी/RP नहीं/NEG थी/VFM ,/PUNC ट्रेन/NN में/PREP ही/RP मिले/VFM थे/VAUX हम/PRP लोग/NN ,/PUNC फिर/RB भी/RP ये/PRP मेरे/PRP साथ/NN हज़ार/QC किलोमीटर/Unk तक/PREP आया/VFM है/VAUX भटिंडा/NNP मुझे/PRP सेफ्ली/Unk घर/NN पहुँचाने/Unk को/PREP ./SYM 
+और/CC तो/CC कोई/PRP दोस्ती/NN नहीं/NEG है/VFM ?/PUNC क्योंकि/CC मेरी/PRP उमर/Unk में/PREP एक/QFNUM झलक/Unk में/PREP दिख/Unk जाता/VAUX है/VAUX की/PREP लड़के-लड़की/NN के/PREP बीच/PREP क्या/QW चल/VFM रहा/VAUX है/VAUX ./SYM 
+दादाजी/NN प्लीज़/Unk ./SYM आप/PRP  मुझे/PRP शर्मिंदा/PSP कर/VFM रहे/VAUX हो/VFM ./SYM 
+शर्मिंदा/VFM ?/PUNC अगर/CC शरम/NN होती/VFM तेरे/PRP अंदर/PREP तो/RP तू/PRP इस/PRP तरह/RB के/PREP कपड़े/NN पहेनटी/VFM ?/PUNC ये/PRP कपड़े/NN पहें/VFM कर/VRB घर/NN आई/VFM है/VAUX तो/CC बंबई/NNP में/PREP तो/RP नंगी/Unk फिरती/Unk होगी/VFM ./SYM 
+नाम/NN क्या/QW है/VAUX ?/PUNC 
+जी/NNPC आदित्या/NNP ./SYM 
+आदित्या/NNP क्या/QW ?/PUNC 
+आदित्या/NNP कुमार./NNP 
+पाएरि/XC पाएना/VFM 
+ह्म/Unk काम/NN क्या/QW करते/VJJ हो/VFM ?/PUNC 
+जी/NNPC मैं/PRP म्यूज़िक/Unk का/PREP काम/NN करता/VFM हूँ/VAUX 
+हम/PRP तेरे/PRP करज़दार/JJ हैं/VAUX पुत्तर./NN
+अब/RB तुझे/PRP एक/QFNUM हफ़्ता/NN हमारे/PRP साथ/NVB रहना/VNN है/VFM यहाँ/PRP ./SYM ताकि/CC हम/PRP तेरा/Unk शुक्रिया/Unk अदा/PSP कर/VFM सकें/VAUX ./SYM तुझपर/Unk ऊपरवाले/Unk की/PREP मेहेर./Unk 
+बस/QF बस/QF अब/RB इसके/PRP बाद/PREP मेरा/PRP पेट/NN फॅट/Unk जाएगा./Unk 
+क्या/QW नॉनसेन्स/Unk है/VAUX ./SYM कभी/RB दसुना/VFM है/VAUX किसी/PRP का/PREP पेट/NN फटा/JJ हो/VFM ?/PUNC 
+इन्फिनिट/Unk एलास्टिक/Unk के/PREP होते/VFM हैं/VAUX पेट./NN
+बचाओ/VFM
+अरे/INJ ,/PUNC लस्सी/NN नहीं/NEG पिलाई/VFM ?/PUNC कमाल/RB है./VAUX 
+हन/QW ,/PUNC ये/PRP बात/NN तो/RP सही/JVB है/VFM ./SYM कोई/PRP पुंजब/NNP आया/VFM है/VAUX और/CC लस्सी/NN नहीं/NEG मिली./VFM
+मैं/PRP लाती/VFM हूँ/VAUX 
+अरे/INJ क्या/QW ?/PUNC क्या/QW कर/VFM रहे/VAUX हो/VFM भाई/NN ?/PUNC 
+आपने/PRP हमारी/PRP बहें/Unk को/PREP बचाया/Unk है/VAUX ./SYM हम/PRP इतना/QF नहीं/NEG कर/VFM सकते/VAUX आपके/PRP लिए/PREP ?/PUNC 
+यार/NN घालती/NN हो/VFM गयी/VFM मैने/PRP तेरी/Unk बहें/Unk को/PREP बचाया/Unk ,/PUNC माफ़/Unk कर/VFM दे/VFM ,/PUNC आयेज/Unk से/PREP किसी/QW की/PREP बहें/Unk के/PREP साथ/PREP ऐसा/PRP नहीं/NEG करूँगा./Unk 
+आप/PRP  चलो/VFM मैं/PRP आपके/PRP लिए/PREP कुछ/QF रात/NN के/PREP कपड़े/NN लाता/VFM हूँ/VAUX 
+आ/VFM जाओ/VFM जी./Unk 
+ओ/Unk गोद/Unk यार/NN अमरीक/Unk मैं/PRP तो/RP मार/VFM जाऊँगा/Unk ऐसे/PRP 
+अरे/INJ कुछ/QF नहीं/NEG होता/VFM 
+तू/PRP देख/VFM गेस्ट/Unk रूम/Unk खुला/Unk है/VAUX ?/PUNC 
+क्या/QW हुआ/VFM ?/PUNC 
+पंगा/Unk हो/VFM गया/VAUX यार./Unk 
+क्या/QW ?/PUNC 
+मैने/PRP बताया/VFM था/VAUX ना/Unk यहाँ/PRP अंशुमन/NNP के/PREP बारे/NN में/PREP कोई/QF नहीं/NEG जानता/Unk ?/PUNC मम्मी/Unk मुझे/PRP बात/NN करने/VNN को/PREP ले/VFM गये/VAUX और/CC 
+क्या/QW कर/VFM रही/VAUX है/VAUX ?/PUNC 
+अच्छा/JVB हुआ/VFM तू/PRP आ/VFM गयी/VFM ./SYM आदित्या/NNP ,/PUNC ये/PRP मेरी/PRP बहें/Unk है/VAUX रूप/NN ./SYM रूप/NN ,/PUNC ये/PRP आदित्या/NNP है/VAUX ./SYM तुझे/PRP इसके/PRP साथ/PREP भाग/NN के/PREP शादी/NN करनी/VFM है./VAUX
+गीत/NNP ,/PUNC एक/QFNUM सेकेंड/Unk सोच/Unk लिया/VAUX कर/VFM बोलने/Unk से/PREP पहले/JJ ./SYM और/CC अंदर/PREP क्या/QW कर/VFM रही/VAUX थी/VAUX तू/PRP ?/PUNC 
+ओह/INJ हो/VFM पोज़ेसिव/Unk अभी/RB से/PREP जलन/Unk होने/VNN लगी/VFM ?/PUNC घबरा/Unk मत/NEG ,/PUNC हम/PRP वो/PRP नहीं/NEG कर/VFM रहे/VAUX थे/VAUX ./SYM ये/PRP जो/PRP है/VFM ना/Unk ,/PUNC वन-वुमन-मान/Unk है/VAUX ./SYM फेतफुल/Unk रहेगा/VFM तेरे/PRP साथ./Unk 
+रूम/Unk खुला/Unk है./VAUX
+तो/RP ले/VFM जाओ/VFM ./SYM यहाँ/PRP क्यों/QW खड़ा/Unk कर/VRB रखा/VFM है/VAUX ?/PUNC जाओ/VFM ./SYM और/CC सुनो./Unk 
+तू/PRP उधर/RB देख/VFM ,/PUNC सीक्रेट/Unk है./VAUX
+कल/Unk सुबह/Unk एकद्ूम/Unk जल्दी/RB उतना/Unk ./SYM घर/NN के/PREP पीछे/NLOC एक/QFNUM पेड़/NN है/VAUX ,/PUNC उसके/PRP नीचे/NST मिलेंगे/VFM 
+पर/PREP क्यों/QW ?/PUNC 
+वारी/Unk जवान/NN सोनियों/Unk ./SYM अज्ज/Unk ट्वाड़ा/Unk रंग-तंग/Unk किन्ना/Unk क्‍माल/NN दा/PSP है./VAUX
+तू/PRP वेखयाई/Unk नई/NNPC आए/VFM कुछ/QF ./SYM अग्गे/Unk अग्गे/Unk तू/PRP देख/VFM मेरे/PRP रंग./Unk 
+हैं/VAUX ./SYM आए/VFM ते/Unk क्‍माल/NN है/VAUX ./SYM तू/PRP ता/Unk वादी/Unk चांगी/Unk पुंजाबी/Unk बोल्डा/Unk आए./Unk 
+आए/VFM वी/NNPC मेरा/PRP इक/Unk रंग/Unk आए./Unk 
+तू/PRP कितहे/Unk सिक्खी/Unk इननी/Unk वाडिया/Unk पंजाबी/Unk बोलनी/Unk ?/PUNC 
+मेरी/PRP मदर/Unk पंजाबी/Unk थी./Unk 
+अरे/INJ हन/QW ./SYM तो/RP तुम्हें/PRP  पुंजाबी/NNP में/PREP बात/NN क्यों/QW नहीं/NEG करते/VFM हो/VFM ?/PUNC 
+ऐसे/PRP ही./VAUX 
+करनी/VFM चाहिए/VFM ,/PUNC पता/NVB है./VAUX
+यही/PRP चिट-छत/Unk करने/VNN के/PREP लिए/PREP तुमने/PRP मुझे/PRP पाँच/QC बजे/NN उठाया/Unk है/VAUX ?/PUNC 
+अरे/INJ नहीं/NEG ./SYM बड़ा/QF पंगा/NN हो/VFM गया/VAUX है./VAUX
+क्या/QW ?/PUNC 
+मंजीत/NNP आ/VFM रहा/VAUX है./VAUX
+अब/RB ये/PRP साला/NN मंजीत/NNP कौन/QW है/VAUX ?/PUNC 
+मंजीत/NNP खोसला/NNP ./SYM कुछ/QF साल/NN पहले/JJ वो/PRP लोग/NN पटियाले/NNP शिफ्ट/Unk कर/VFM गये/VAUX थे/VAUX ./SYM मेरे/PRP दादाजी/NN और/CC बाकी/JJ लोगों/NN ने/PREP मंजीत/NNP से/PREP मेरी/PRP शादी/NN फिक्स/Unk कर/VFM डी/NNPC है/VAUX और/CC वो/PRP लोग/NN आज/NN आ/VFM रहे/VAUX हैं/VAUX मुझे/PRP देखने./Unk 
+होल्ड/Unk ओं/Unk ./SYM तुमसे/PRP नहीं/NEG पूछा/Unk जाएगा/VAUX ?/PUNC ऐसे/PRP ही/RP शादी/NN हो/VFM जाएगी/VAUX ?/PUNC 
+आक्च्युयली/CC ,/PUNC कहानी/NN में/PREP ट्विस्ट/Unk है./VAUX
+शुरू/NVB करो/VFM .../Unk 
+ये/PRP जो/PRP खोसला/Unk हैं/VAUX ,/PUNC हमारे/PRP बड़े/RB पुराने/JJ फॅमिली/NN फ्रेंड्स/Unk हैं/VAUX ./SYM मंजीत/NNP और/CC मैं/PRP बचपन/NN से/PREP साथ/NVB रहे/VFM हैं/VAUX ./SYM सब/INTF कहते/VFM थे/VAUX की/PREP ये/PRP दोनो/QFNUM बड़े/Unk होंगे/VFM तो/CC इनकी/PRP शादी/NN करा/Unk देंगे/VFM ./SYM मुझे/PRP बड़ा/QF मज़ा/NN आता/Unk था/VAUX ये/PRP सोच/Unk कर/VFM की/PREP मेरी/PRP शादी/NN होगी/VFM मंजीत/NNP के/PREP साथ/NN ./SYM घर-घर/Unk खेलने/VNN में/PREP मैं/PRP कभी/RB रूप/NN को/PREP मंजीत/NNP की/PREP वाइफ/Unk नहीं/NEG बनने/Unk देती/VAUX थी/VAUX ./SYM आठ/QFNUM साल/NN की/PREP उमर/Unk में/PREP मंजीत/NNP और/CC मैं/PRP हाथ/NN पकड़/Unk कर/VFM इस/PRP पेड़/NN के/PREP नीच/Unk खड़े/Unk होते/VFM थे/VAUX के/PREP जी/NNPC उस/PRP खेत/Unk के/PREP परे/Unk हम/PRP अपना/PRP घर/NN बनाएँगे/Unk ./SYM फिर/RB मैं/PRP बड़ी/Unk हो/VFM गयी/VFM ,/PUNC और/CC इस/PRP मंजीत/NNP एपिसोड/Unk को/PREP आस/Unk आ/VFM जोक/Unk लेने/VNN लगी/VFM ./SYM पर/PREP कल/Unk मुझे/PRP पता/NVB चला/VFM की/PREP मेरे/PRP पेरेंट्स/Unk तो/RP बड़े/Unk हुए/VAUX ही/RP नहीं/NEG ./SYM वो/PRP सीरीयस/Unk हैं/VAUX ./SYM सब/INTF सीरीयस/Unk हैं/VAUX ./SYM और/CC मेरी/PRP बंद/JJ बाज/Unk गयी./Unk 
+तो/RP अब/RB ?/PUNC 
+मैं/PRP तो/RP भाग/NVB रही/VFM हूँ/VAUX 
+अरे/INJ यार/NN तू/PRP छ्छूटते/VFM ही/RP भाग/NVB जाने/VNN की/PREP बात/NN करती/VFM है/VAUX ./SYM ऐसा/PRP सोचना/VFM भी/RP मत/NEG ./SYM बहुत/INTF ही/RP घटिया/JJ चीज़/NN है/VAUX ये/PRP भाग/NN जाना/VAUX ./SYM हज़ार/QC टेरेह/Unk के/PREP रिस्क/Unk होते/VFM हैं/VAUX इसमें/PRP ,/PUNC और/CC प्रॉब्लम्स/Unk होती/VFM है./VAUX
+और/CC कोई/PRP ऑप्षन/Unk नहीं/NEG है./VAUX
+हज़ार/QC ऑप्षन/Unk हैं./VAUX 
+जैसे/PRP ?/PUNC 
+जैसे/PRP अपने/PRP पेरेंट्स/Unk को/PREP क्या/QW नाम/NN है/VFM अंशुमन/NNP के/PREP बारे/NN में/PREP बता/VFM दो./VFM 
+वो/PRP कभी/RB नहीं/NEG मानेंगे/VFM ./SYM उल्टा/Unk एमोशनल/Unk ब्लॅकमेल/Unk से/PREP मुझे/PRP यहाँ/PRP फँसा/Unk लेंगे/VFM ./SYM बाद/PREP ऑप्षन./Unk 
+अगर/Unk तुम्हें/PRP  अंशुमन/NNP के/PREP लिए/PREP अपने/PRP पेरेंट्स/Unk तो/RP नहीं/NEG माना/VFM सकती/VAUX तो/CC भूल/VFM जाओ/VFM अंशुमन/NNP को./PREP 
+शादी/NN ही/RP मत/NEG करो/VFM ,/PUNC किसी/PRP से/PREP भी./RP 
+मंजीत/NNP से/PREP रूप/NN की/PREP शादी/NN करवा/Unk दो./Unk 
+कोर्ट/NNP में/PREP साबित/Unk कर/VRB दो/QFNUM की/PREP मंजीत/NNP इंपोटेंट/Unk है./VAUX
+वो/PRP इंपोटेंट/Unk नहीं/NEG है/VFM ./SYM नेक्स्ट./Unk 
+तुम्हें/PRP कैसे/Unk पता/NVB ?/PUNC एक/QFNUM मिनिट/Unk ./SYM मंजीत/NNP इंपोटेंट/Unk नहीं/NEG है/VFM ,/PUNC तुम्हें/PRP कैसे/Unk पता/NVB ?/PUNC 
+वो/PRP तो/RP पता/NVB चल/VFM जाता/VAUX है./VAUX
+पता/NVB चल/VFM जाता/VAUX है/VAUX ?/PUNC कहीं/NLOC तुमने/PRP उसके/PRP साथ/NN ?/PUNC 
+तुमने/PRP देखा/VFM किसी/QW के/PREP साथ/PREP ?/PUNC 
+किसी/QW ने/PREP बताया/VFM की/PREP मंजीत/NNP ?/PUNC 
+मंजीत/NNP ने/PREP खुद/Unk बताया/VFM की/PREP उसने/PRP किसी/QW के/PREP साथ/PREP ?/PUNC 
+उल्लू/Unk ,/PUNC सब/INTF के/PREP सब/INTF ./SYM देखो/VFM कितना/QF खुश/Unk हो/VFM रहे/VAUX हैं/VAUX ./SYM इन्हें/Unk क्या/QW पता/NVB की/PREP मैं/PRP तो/RP भागने/Unk वाली/PREP हूँ/VAUX बहुत/INTF तेज़./Unk 
+सुन/VFM ,/PUNC ज़्यादा/PSP सात/QFNUM मत/NEG मुझसे/Unk ./SYM ये/PRP लोग/NN घालत/Unk समझेंगे./Unk 
+तो/RP ?/PUNC मुझे/PRP कौन/QW सी/NNPC यहाँ/PRP शादी/NN करनी/VFM है/VAUX ?/PUNC 
+और/CC ये/PRP सारे/Unk पहेलवान/Unk जो/PRP मुझे/PRP पटक/Unk के/PREP मारेंगे/Unk ?/PUNC 
+तोड़ा/Unk बर्दाश्त/Unk कर/VFM लेना/VNN मेरे/PRP लिए/PREP जानेमन./Unk 
+कुर्ता/Unk कुर्ता/Unk छ्चोड़/Unk ,/PUNC क्या/QW कर/VFM रही/VAUX है/VAUX ?/PUNC 
+ये/PRP आइडिया/Unk अच्छा/JVB हो/VFM सकता/VAUX है/VAUX इस/PRP शादी/NN को/PREP रोकने/VNN के/PREP लिए/PREP ./SYM तीस/QFNUM इस/PRP थे/VFM रिघ्त/Unk ऑप्षन./Unk 
+तू/PRP मुझसे/Unk डोर/Unk रह/VFM ,/PUNC समझी/Unk ?/PUNC 
+हाउ/Unk अरे/INJ योउ/PRP जी/NNPC ?/PUNC 
+हन/QW ,/PUNC जसपरीत/Unk की/PREP शादी/NN के/PREP बाद./Unk 
+हांजी/Unk ./SYM और/CC बॉमबे/NNP के/PREP क्या/QW हाल-चाल/Unk ?/PUNC 
+आप/PRP  सब/QF भी/RP बात/NN कर/VFM सकते/VAUX हो/VFM जी/NNPC ./SYM कोई/PRP पनिशमेंट/Unk नहीं/NEG है./VAUX
+जी./Unk 
+बौजी/Unk बुला/Unk रहे/VAUX हैं./VAUX 
+हन/QW भाई/NN ,/PUNC सुनो/VFM ./SYM इनसे/Unk मिला/VFM डून/Unk ./SYM ये/PRP आदित्या/NNP है/VAUX ./SYM संगीतकार/Unk है./VAUX
+सब/INTF के/PREP नाम/NN तो/RP याद/Unk नहीं/NEG रहेंगे/VFM ,/PUNC ये/PRP मंजीत/NNP है./VAUX
+आइए/Unk बैठिए./Unk 
+नहीं/NEG ,/PUNC तुम्हें/PRP  बैठो/Unk यार./Unk 
+ये/PRP बहुत/INTF ही/RP अच्छे/Unk सिंगर/Unk हैं./VAUX 
+अच्छा/JJ जी./Unk 
+इस/PRP हॅपी/Unk अकेशन/Unk में/PREP इन्हें/Unk गाना/Unk नहीं/NEG गाना/Unk चाहिए/VFM ?/PUNC 
+हांजी/Unk ज़रूर/Unk ,/PUNC बिल्कुल./Unk 
+नहीं/NEG ,/PUNC ये/PRP मज़ाक/Unk कर/VFM रही/VAUX है./VAUX
+नहीं/ नहीं/ ,/ सीरीयस/Unk हूँ/VAUX मैं/PRP ./SYM हंस/NNC रही/VAUX हूँ/VAUX क्या/QW ,/PUNC देखो/VFM 
+लॅडीस/Unk आंड/CC जेंटल्मेन/Unk ./SYM बंबई/Unk से/PREP आया/VFM मेरा/PRP दोस्त/Unk ,/PUNC आदित्या/NNP ,/PUNC एक/QFNUM गीत/NNP पेश/NVB करने/VNN वाले/PREP है./VAUX
+अरे/INJ चाचजी/Unk प्लीज़/Unk 
+तो/RP प्लीज़/Unk ज़रा/Unk शांति/NN ,/PUNC साइलेन्स/Unk 
+अरे/INJ देखिए/Unk 
+एवेरिवन/Unk सेट्ल/Unk डाउन/Unk जी./Unk 
+पुत्तर/Unk ,/PUNC अब/RB तो/RP तू/PRP गेया/Unk ही/RP दे/VFM ./SYM हम/PRP भी/RP देखें/Unk बंबई/Unk वालों/Unk में/PREP कितना/QF दूं/VFM है/VAUX ./SYM सकते/VAUX हैं./VAUX 
+जी/NNPC 
+ओके/Unk ,/PUNC साइलेन्स./Unk 
+बैठ/Unk जाओ/VFM जी/NNPC ,/PUNC बैठ/Unk जाओ/VFM ./SYM आराम/Unk से./Unk 
+हांजी./Unk 
+आप/PRP  लोग/NN ऐसे/PRP क्यों/QW देख/VFM रहे/VAUX हो/VFM ,/PUNC मैं/PRP नर्वस/Unk हो/VFM जाऊँगा./Unk 
+हन/QW भाई/NN ,/PUNC सब/INTF इधर/PRP उधर/RB देखो/VFM ,/PUNC इधर/PRP उधर./Unk 
+मैं/PRP शुरू/NVB करता/VFM हूँ/VAUX ./SYM आप/PRP  लोग/NN भी/RP जाय्न/Unk करना./Unk 
+ओ/Unk कोई/QF नहीं/NEG ,/PUNC जाय्न/Unk करेंगे/VFM हम/PRP तो/RP पंजाबी/Unk हैं/VAUX हूमें/Unk तो/RP मौका/NVB चाहिए/VFM 
+हांजी/Unk ,/PUNC चलो/VFM ,/PUNC स्टार्ट./Unk 
+अपना/PRP मैं/PRP काम/NN तो/RP स्पेर/Unk पार्ट्स/Unk का/PREP है/VFM ,/PUNC मगर/CC  अभी/RB टायजी/Unk को/PREP टेंडर/Unk मिला/VFM है/VAUX ./SYM तो/RP हम/PRP लोग/NN एक/QFNUM नयी/Unk फाउंड्री/Unk डाल/Unk रहे/VAUX हैं/VAUX ,/PUNC मेटल/Unk स्ट्रीप/Unk की./Unk 
+अच्छा/JJ ह्म./Unk 
+एक/QFNUM मिनिट/Unk ,/PUNC हन/QW ?/PUNC 
+तू/PRP यहाँ/PRP है/VAUX ?/PUNC पापा/NN बुला/Unk रहे/VAUX हैं./VAUX 
+ओह/INJ हो/VFM 
+अब/RB क्या/QW करने/VNN वाली/PREP है/VFM ?/PUNC 
+वो/PRP आ/VFM रहा/VAUX है/VAUX ?/PUNC 
+कौन/QW ?/PUNC 
+मंजीत/NNP 
+इधर/PRP देख/VFM रहा/VAUX है/VAUX ?/PUNC 
+हन/QW ./SYM पीछे/PREP हट./Unk 
+देखा/VFM उसने/PRP ?/PUNC 
+ये/PRP सब/QF नाटक/NN चल/VFM रहा/VAUX है./VAUX
+सुनो/VFM मंजीत/NNP ./SYM जो/PRP तुम्हें/PRP  समझ/Unk रहे/VAUX हो/VFM वैसा/Unk बिल्कुल/INTF नहीं/NEG है/VFM ./SYM ये/PRP जान/Unk के/PREP ऐसा/PRP कर/VFM रही/VAUX थी/VAUX ./SYM पूछो/VFM इस/PRP से./Unk 
+हन/QW हन/QW ,/PUNC ये/PRP ठीक/RB बोल/VFM रहा/VAUX है/VAUX मंजीत/NNP ./SYM आ/VFM हमारे/PRP बीच/PREP में/PREP कुछ/QF भी/RP ऐसा-वैसा/Unk नहीं/NEG है/VFM कसम/NN से/PREP हम/PRP तो/RP सिर्फ़/Unk बाइ-थे-वे/Unk फ्रेंड्स/Unk हैं./VAUX 
+बताओ/VFM इसे/PRP आदित्या/NNP ./SYM बॉमबे/NNP में/PREP भी/RP तो/CC कुछ/QF नहीं/NEG हुआ/VFM था/VAUX हमारे/PRP बीच/PREP ./SYM नतिंग/Unk ./SYM टेल/Unk हिं./Unk 
+पापा/NN तो/RP बोल/VFM रहे/VAUX हैं/VAUX नहीं/NEG बुलाया/VFM मुझे./PRP
+झूट/NN बोलते/VFM हैं/VAUX ./SYM आ/VFM मैं/PRP पूछती/Unk हूँ/VAUX 
+लिसन/Unk ,/PUNC ब्रदर/Unk ./SYM तुम्हें/PRP घालतफहमी/Unk हुई/VFM है./VAUX
+चल/VFM भाई/NN संशेर/NN शाबाश/Unk 
+भाई/NN च्छेती/Unk कर/VFM ले/VAUX थोड़ी/QF 
+बोला/VFM था/VAUX संशेर/Unk छूतिए/Unk को/PREP मत/NEG लाना/Unk आंड/CC शॅंड/Unk फेंकता/Unk है/VAUX 
+आए/VFM ता/Unk गांद/Unk फाड़/VFM मामला/NN हो/VFM गया/VAUX 
+अर/Unk वो/PRP वर्क/Unk इन/PRP प्रोग्रेस/Unk चाल/Unk राइया/Unk है/VAUX 
+एक/QFNUM आध/Unk दिन/NN होर/Unk  
+हन/QW पाहजी/Unk दो/QFNUM वारी/Unk रिलीस/Unk डटे/Unk पुश/Unk हो/VFM चुकी/VAUX है/VAUX 
+दो/QFNUM वारी/Unk होरडिंग/Unk लाग/Unk चुके/VAUX ने/PREP 
+टॉमी/NNP यार/NN 
+हो/VFM गयी/VFM डेआलें/Unk ऑफ/NNC हूँ/VAUX फाड़/VFM लो/Unk टटटे/Unk 
+नही/NEG टॉमी/NNP वीरे/Unk अएडा/VFM ना/QW बोल/VFM 
+नोट/Unk वर्किंग/Unk आउट/JVB पाँचो/Unk वॉट/Unk आम/JJ युवर/Unk गर्लफ्रेंड/NN 
+भेंचोड़/NN तू/PRP टॉमी/NNP नू/Unk फिरे/Unk करेंगा/Unk 
+लाइन/Unk लग/VFM जानी/VNN है/VFM कल/Unk जड़ों/Unk मार्केट/Unk विच/PREP न्यूज़/Unk आएगी/Unk 
+स्वेर/Unk दी/VAUX टट्टी/NN टॉह्न/Unk पहलान/JJ अगला/JJ कांट्रॅक्ट/NN साइन/VFM होगा/VFM 
+भूषण/NNP कद/QW दा/PSP पीच्चे/NST पेया/Unk है/VAUX 
+तेनू/Unk पता/NVB वी/NNPC है/VAUX गान्डू/NN 
+जनमदिन/Unk दिया/VAUX लाख/NN लाख/NN वधाइयाँ/NN 
+तेनू/PRP पता/NVB है/VFM मेक्सिको/Unk विच/PREP ऐसे/PRP ऐसे/PRP शहेर/Unk ने/PREP जीतते/Unk पुल्से/Unk पैईयर/Unk नही/NEG रख/VFM सकदी/VAUX 
+पूरा/Unk क़ानून/JJ गान्डू/NN दृूगलॉर्ड्स/Unk दा/PSP 
+पाहजी/NN डोंट/VFM माइंड/Unk पर/PREP इत्ठे/PRP पुल्से/NN ने/PREP केडे/QF झंडे/Unk गाडते/Unk 
+हन/QW रोक/VFM पेन/VFM दे/VFM यार/NN नू/PSP
+मेहेर/PRP बाबे/PRP दी/PSP रानी/NN दोआबे/NN दी/VAUX 
+पेपर/NN कित्थे/QW ने/PREP तेरे/PRP 
+तेनू/PRP पता/NVB न्ही/NRG एलेक्षन/NN दा/PSP टाइम/NN है/VAUX बिना/NEG पेपर/NN घूंदा/PSP है/VAUX लौदू/Unk 
+आए/VFM वेखो/VFM पाहजी/Unk पॅकएजिंग/NN 
+ब्रान्डिंग/NN शानदिंग/Unk हों/VFM लगी/VFM है/VAUX 
+होर/Unk पहलान/Unk ता/Unk टेंपो/Unk अओंदे/Unk सी/NNPC हूँ/VAUX ट्रक/Unk दे/VFM ट्रक/Unk आ/VFM र्हे/Unk ने/PREP लड़/Unk लड़/Unk के/PREP 
+बेबी/Unk अएनू/Unk ही/RP ता/PSP तरक्की/Unk कहेंडे/VFM 
+ने/PREP ग्रीन/JJ रेवोल्यूशन/Unk पार्ट/Unk टू/Unk 
+पर/PREP पाहजी/Unk सॅडी/Unk तरक्की/Unk दा/PSP की/PREP 
+नाके/NN दा/PSP रते/Unk ता/Unk ओ/Unk ही/RP है/VFM डूस/NN हज़ार/QC 
+पाहजी/NN मैनउ/PRP लगदा/VFM है/VAUX इन्ना/Unk ने/PREP पुंजब/Unk पुल्से/NN नू/Unk टके/Unk फॉर/NNC ग्रॅंटेड/Unk ले/VFM लेया/Unk आए/VFM 
+लॉ/NN आंड/CC ऑर्डर/Unk टॉह्न/Unk कोई/PRP दर्डा/Unk ही/RP न्ही/Unk 
+इज़/Unk त्राह/Unk ता/Unk आए/VFM वी/NNPC मेक्सिको/Unk बन/VFM जाना/VAUX है/VAUX 
+पाँचो/Unk मेक्सिको/Unk बनाएगा/Unk हैं/VAUX 
+दस/QFNUM दे/VFM अपने/PRP मालक/Unk नू/Unk रते/Unk वधाओ/Unk 
+नही/NEG ता/Unk कल/Unk टॉह्न/Unk रेड/Unk लाइट/JJरेड/Unk लाइट/JJनो/Unk ग्रीन/Unk लाइट/JJ
+चल/VFM पाज/Unk जा/VAUX कूस्या/Unk 
+जी/NNPC जनाब/Unk दुरुस्त/Unk जी/NNPC 
+चल/VFM वीरे/Unk टैनउ/Unk लॉ/Unk आंड/CC ऑर्डर/Unk दी/VAUX पहॉंच/Unk विखाना/Unk 
+बेबी/NN बैठ/Unk बोलरो/Unk में/PREP तेरा/Unk हॅपी/Unk बर्तडे/Unk बनाएँगे/Unk 
+कोकेन/Unk सीज़/Unk करो/VFM सारी/Unk दी/VAUX सारी/Unk 
+टॉमी/NNP नू/Unk फाड़/VFM ओये/Unk 
+पेंचो/Unk म्यूज़िक/Unk बाँध/Unk कारवओ/Unk 
+पाहजी/Unk की/PREP हो/VFM गया/VAUX 
+आओ/Unk तुस्सी/Unk आपान/Unk गाल/Unk करने/VNN हा/Unk 
+ना/Unk सिरजी/Unk आज/NN कोई/PRP गाल/Unk शाल/Unk न्ही/Unk होनी/VNN 
+उट/Unk टॉह्न/Unk ऑर्डर/Unk आया/VFM है/VAUX 
+टॉमी/NNP नू/Unk पहज/Unk दो/QFNUM सादे/Unk नाल/Unk नही/NEG ता/Unk मैं/PRP सारेया/Unk नू/Unk अंदर/PREP कार/Unk देना/VNN है/VAUX 
+टॉमी/NNP ता/Unk शामी/Unk लंडन/NNP चला/VFM गया/VAUX 
+मैं/PRP सुनेया/Unk नही/NEG 
+रोटी/NN न्ही/Unk खाड़ी/NN 
+टॉमी/NNP गया/VAUX नही/NEG अभी/RB तक/PREP 
+टॉमी/NNP तां/Unk अएतते/Unk ही/RP है/VFM पर/PREP आए/VFM कोकेन/Unk शोकैने/Unk तां/Unk च्छाद/Unk दी/VAUX ओने/Unk 
+बल्ली/Unk नू/Unk कोचैंग/Unk ले/VFM ज़ाइन/Unk 
+सूट/NN ता/Unk पाया/Unk है/VAUX 
+घर/NN विच/PREP आएंका/Unk ला/Unk के/PREP घूंदा/PSP है/VAUX 
+बल्ली/Unk बल्ली/Unk उठ/Unk ओये/Unk कोचैंग/Unk न्ही/Unk जाना/VAUX 
+चल/VFM त्यार/NN हो/VFM 
+होर/Unk आए/VFM फुड़दू/Unk दा/PSP पोस्टर/Unk हटा/Unk 
+टाइट/Unk बह/Unk काका/Unk 
+ध्यान/NVB कित्थे/Unk है/VAUX तेरा/Unk 
+केडी/Unk दुनिया/NN विच/PREP रहेंडा/Unk है/VAUX 
+होर/Unk बीजी/Unk दस/QFNUM री/Unk सी/NNPC घर/NN विच/PREP आएंका/Unk ला/Unk के/PREP घूंदा/PSP है/VAUX हैं/VAUX 
+कूदी/Unk शुदी/Unk दा/PSP चक्कर/Unk टेयै/Unk न्ही/Unk पा/Unk लेया/Unk 
+पाहे/Unk चाहीदे/Unk 
+जे/PRP सू/RDP सू/RDP डी/NNPC गया/VAUX टेयै/PRP छापेड़/NN पेनी/JJ हैं/VAUX 
+आज/NN दो/QFNUM दे/VFM बे/INF 
+डाक्टर/NN को/PREP दिखाना/VFM है/VAUX 
+पेट/NN दुख/VFM रहा/VAUX है/VAUX 
+बारह/QFNUM बजे/NN तक/PREP ना/NEG आई/VFM तो/CC फुल/NN दे/VFM कटेगा/VFM 
+वो/PRP वाला/NNP साबुन/NN 
+वो/PRP लाल/NNPC वाला/NNP 
+वो/PRP पहले/JJ तो/RP एकद्ूम/Unk भीड़/NN लगा/VFM रहता/Unk था/VAUX छाई/PRP दुकान/NN पे/PREP 
+अब/RB छाई/PRP कौन/QW पीटा/VFM है/VAUX 
+पड़े/VFM होंगे/VFM खंडारों/NN में/PREP नशेड़ी/JJ भेंचोड़/NN
+पोज़/NN वेखया/VFM सी/NNPC टॉमी/NNP दा/PSP 
+आए/VFM पेंचो/NN 
+इसी/PRP के/PREP भाई/NN ने/PREP पकड़ा/VFM है/VAUX टॉमी/NNP को/PREP 
+लौदू/JJ मास्टर/NN 
+बुरा/NN मान/VFM गयी/VFM मेरी/PRP जान/NN
+कौन/QW है/VAUX भेंचोड़/NN 
+माल/NN माल/NN चाहिए/VFM तुमको/PRP 
+क्या/QW है/VAUX तेरे/PRP पास/PREP 
+हन/QW वही/PRP हेरोइन/NN
+पैसे/NN नही/NEG हैं/VAUX मेरे/PRP पास/NN 
+उनसे/PRP पूच्छ/VFM 
+तुम्हें/PRP  पूच्छो/VFM 
+कमिसन/NN ले/VFM लेना/VNN 
+कितने/QW में/PREP बेचेगी/VFM 
+कितना/QF दोगे/VFM 
+टीन/QC हज़ार/QC 
+कितनी/QW है/VAUX 
+पाँच/QC 
+कल/NN आ/VFM बात/NN कर/VFM के/PREP रखता/VFM हूँ/VAUX 
+पुर/QF पाँच/QC ग्राम/QF है/VAUX ना/QW 
+पाँच/QC किलो/QF 
+कौन/QW है/VAUX 
+मैं/PRP हन/QW 
+आ/VFM राइया/VFM हन/QW 
+बकवास/NN ना/NEG कर/VFM 
+इतना/QF माल/NN 
+चाहिए/VFM तो/CC बोलो/VFM 
+टाइम/NN मत/NEG खोती/RB करो/VFM 
+सुन/VFM यहाँ/PRP कोई/QF नही/NEG खरीदेगा/VFM 
+अंबरसर/NNP में/PREP एक/QFNUM पार्टी/NN है/VFM 
+उसका/PRP छ्होटा/JJ भाई/NN स्कूल/NN में/PREP पढ़ता/VFM था/VAUX 
+नंबर/NN दो/QFNUM उसका/PRP 
+डूस/QC तका/NN 
+तुल्ले/NN दा/PSP भाई/NN
+रुक/VFM जेया/VAU तोड़ा/PRP घंटा/NN वी/NNPC न्ही/NEG होया/VFM 
+क्यूँ/QW रोडी/NN बन/VFM राइया/VFM है/VAUX 
+जेया/PSP ओये/Unk लूँ/VFM 
+कंज़राओं/NNP आए/VFM कोचैंग/NN है/VAUX ट्वादी/PRP
+डॉक्टर/NN साब/NN बच/VFM जाएगा/VAUX ना/QW 
+विज़िटिंग/Unk डॉक्टर/NN आ/VFM रहे/VAUX हैं/VAUX 
+मैं/PRP इंटरन/NN हूँ/VAUX 
+तो/RP बुलाओ/VFM केडा/QW डॉक्टर/Unk है/VAUX 
+नही/NEG सर्क्यूट/NN हाउस/NN से/PREP शुरू/NVB करेंगे/VFM 
+फिर/RB ऑफीस/NN के/PREP सामने/NLOC धारणा/VFM
+ट्रॅफिक/JJ पोलीस/NN को/PREP इनफॉर्म/Unk करो/VFM 
+और/CC इस/PRP बार/NN नये/JJ बॅनर/Unk 
+साइड/NN पे/PREP तो/RP लिटा/VFM देते/VJJ 
+कितनी/QW बार/NN बताया/VFM है/VAUX 
+नलक्षोणे/NN हाइडरोक्लॉराइड/Unk का/PREP इंजेक्षन/Unk बनाओ/VFM
+मेडम/NN ठीक/RB तो/RP हो/VFM जाएगा/VAUX ना/QW 
+बाहर/NLOC बैठो/VFM आप/PRP  चलो/VFM 
+मडंजी/NN थॅंक/Unk योउ/PRP 
+लिया/VAUX क्या/QW है/VAUX इसने/PRP 
+अभी/RB कहना/VFM मुश्किल/JJ है/VAUX 
+पर/PREP इतना/QF बता/VFM सकती/VAUX हूँ/VAUX की/PREP काफ़ी/QF टाइम/NN से/PREP ले/VFM रहा/VAUX है/VAUX 
+डोसेज/NN भी/RP हाइ/JJ है/VAUX 
+नही/NEG मडंजी/NN वो/PRP लौंदों/NN ने/PREP पकड़/VFM के/PREP करवा/VFM दी/VAUX होगी/VFM आज/NN 
+बल्ली/NNP ऐसा/PRP लड़का/NN नही/NEG 
+हाथ/NN देखा/VFM है/VAUX उसका/PRP 
+नसें/NN काली/Unk पद/NN गयी/VFM हैं/VAUX सूइयां/NN घुसा/VFM घुसा/RDP के/PREP 
+सादे/PRP मुंडे/NN ता/PSP ठीक/RB हैं/VAUX 
+होरान/Unk दे/VFM खराब/JVB हैं/VFM 
+कोई/PRP आइडिया/NN ही/RP नही/NEG था/VAUX 
+मडंजी/NN मैं/PRP क्या/QW पूच्छ/VFM रहा/VAUX था/VAUX की/PREP 
+छ्चोड़/VFM तो/RP देगा/VFM ना/QW वो/PRP 
+उस/PRP पे/Unk है/VAUX 
+और/CC आस/NN पास/NN के/PREP माहौल/NN पे/Unk 
+फॅमिली/NN यार/NN दोस्त/NN 
+इतनी/QF हाइ/Unk डिपेंडेन्स/Unk पे/PREP बंदा/NN सही/JJ बुरा/JJ सोचने/Unk की/PREP केपॅसिटी/Unk खो/VFM देता/VAUX है/VAUX 
+छ्होटा/JJ है/VAUX मेरा/PRP 
+बापू/NN मेरे/PRP उते/RB चढ़/VFM के/PREP गया/VAUX सी/NNPC 
+डिसचार्ज/Unk के/PREP बाद/PREP उसे/PRP मेरे/PRP क्लिनिक/NN पे/PREP ले/VFM आना/VNN 
+कोशिश/NN करेंगे/VFM की/PREP छ्छूट/VFM जाए/VAUX 
+माल/NN खरीदना/VFM है/VAUX 
+पाँच/QC किलो/QF हेरोइन/NNP 
+दोबारा/QO फोन/NN नही/NEG करेंगे/VFM 
+रते/NN बोल/VFM 
+टीन/QC हज़ार/QC 
+अड्रेस/NN लिख/VFM 
+हेलो/Unk सुन/VFM ओये/INJ 
+मेरी/PRP ब्रार/NNP साब/NN नाल/NN गाल/RDP करवा/VFM दे/VFM 
+मैं/PRP औडी/Unk कूदी/NN मनप्रीत/NNP दे/VFM व्यः/Unk विच/PSP पर्फॉर्म/VFM किट्ता/VAUX सी/NNPC 
+सुन/VFM ले/VFM यार/NN 
+पानी/NN ता/PSP दे/VFM दे/VFM 
+है/VAUX कोई/PRP 
+की/PREP होया/VFM कार/NN जाना/VAUX है/VAUX 
+जेया/VFM ना/INJ 
+अरे/INJ बैल/NN वेल/RDP ता/PSP होडी/VFM रहेगी/VAUX 
+तुस्सी/PRP ता/PSP सेलेब्रिटी/NN हो/VFM 
+कार्टरे/NN जीप/NN कद/PSP साब/NN नू/PREP कार/NN च्छाड़ना/VFM है/VAUX 
+पहलान/QO बंदा/NN बन/VFM जा/VAUX 
+फेर/NST बनी/VFM फुड़दू/Unk साला/NN 
+अंबरसर/NNP उड़/VFM दा/PSP 
+जल्लंधार/NNP उड़/VFM दा/PSP 
+उड़/VFM दा/PSP लुधियाना/NNP मोगा/NN 
+तू/PRP वी/NNPC उड़/VFM ले/VFM गबरू/NNP मेरे/PRP 
+की/PREP सोचे/VFM हूँ/VAUX की/PREP होगा/VFM 
+बापू/NN उड़/VFM दा/PSP लौंडा/NN उड़/VFM दा/PSP 
+उड़/VFM दे/VFM चाचे/NN मामए/NN 
+रुस्तम/NNP उड़/VFM दे/VFM डारे/Unk उड़/VFM दे/VFM 
+उड़/VFM दे/VFM पहेलवन/NN ग़ामे/NN 
+असी/PRP आठवीं/QC विच/CC सीगे/VFM पाहजी/NN 
+जड़ों/VFM ट्वाड़ा/PRP गाना/NN आया/VFM सी/NNPC 
+टदों/Unk दा/PSP बस/QF ट्वाड़े/PRP वरगा/PRP बनना/VFM सी/NNPC 
+पहली/JJ बार/NN जब/RB सुई/NN अंदर/PREP उतरी/VFM थी/VAUX 
+आपकी/PRP जान/JJ कसम/NN 
+आप/PRP  ही/RP की/PREP फोटू/NN आई/VFM थी/VAUX सामने/NLOC 
+माई/NN होवे/VFM मा/PRP नू/NEG  मारता/VFM
+ते/PRP हूँ/VAUX गाने/NN गेया/VFM रहे/VAUX ने/PREP 
+पैसे/NN नही/NEG दे/VFM रही/VAUX थी/VAUX 
+तलब/NN लगी/VFM थी/VAUX 
+आए/VFM ले/VAUX प्रा/Unk जॅकी/NNP छान/NNP 
+सात/QFNUM श्री/NN अकल/NN परजाई/NN 
+सात/QFNUM श्री/NN अकल/NN वीरे/NN 
+लस्सी/NN लुस्सी/NN पीनी/NN है/VAUX 
+बिहरण/NN है/VAUX 
+करनैल/NN सिंग/NNP दे/VFM खेतन/NN विच/PREP काम/NN करदी/VFM है/VAUX 
+पूरी/QF प्लॅनिंग/Unk कइट्ती/VFM होनी/VNN है/VAUX हरांजाड़ी/NN ने/PREP 
+ता/PRP ही/RP मैं/PRP सोचान/VFM की/PREP पाँचो/NN
+डेलिवरी/NN गयी/VFM ता/Unk गयी/VFM कित्थे/QW 
+ता/Unk फेर/Unk तू/PRP किस/QW गाल/Unk दा/PSP भांडी/Unk 
+तेरा/PRP पेओ/NN काम/NN कारदा/VFM सी/NNPC मेरी/PRP लेइन/CC 
+कड़ी/VFM कोई/PRP भासुडि/NN पाई/PREP
+सुन/VFM मारी/PRP ना/QW
+फॅमिली/NN रीलेशन/NN है/VAUX 
+अएडा/PRP की/PREP करना/VFM है/VAUX 
+अएतते/PRP टेयै/PRP कोई/PRP रीलेशन/NN नही/NEG 
+फेंकना/VFM ही/RP था/VAUX तो/CC चुराया/VFM क्यूँ/QW 
+भेंचोड़/JJ गश्ती/NN 
+तू/PRP टेन्षन/NN ना/NEG लेई/VFM 
+मैं/PRP सब/INTF ठीक/NN कर/VFM द्‍यांगा/VFM
+वीरे/NNP वीरे/NNP खोल/NNP दे/VFM वीरे/NNP 
+बस/JJ एक/QFNUM वारी/NN लें/VFM दे/VFM 
+भेंचोड़ान/NN की/PREP करां/VFM मैं/PRP तेरा/PRP 
+स्वेरे/NN जानदा/VFM हन/INJ राती/NN आंडा/VFM हन/INJ 
+मैनउ/PRP की/PREP पता/NVB की/VFM चल/VFM राइया/VFM है/VAUX 
+तुस्सी/PRP ता/CC ख्याल/NVB रख/VFM सकडे/VFM सी/NNPC 
+नशा/NN कल्ला/NN बंदा/NN कारदा/PSP है/VAUX पर/PREP औडा/PRP एफेक्ट/Unk पूरी/QF फॅमिली/NN ते/PSP होंडा/NNC है/VAUX 
+शुरू/NVB विच/CC ता/CC बंदा/NN शौक़/RDP शौक़/RDP विच/PREP कारदा/VFM है/VAUX 
+पर/PREP ओस/PRP तो/RP बाद/PREP ड्रग्स/NN ही/RP औडी/QF लाइफ/NN दा/CC मक़सद/NN बन/VFM जाँदी/VFM है/VAUX 
+यार/NN दोस्त/NN काम/NN काज/NN फॅमिली/NN सारे/QF परे/JJ
+बंदे/NN विच/CC जो/PRP वी/NNPC खूबसूरती/NN है/VAUX 
+औडी/QF लाइफ/NN विच/CC जो/PRP वी/NNPC सोनी/JJ चीज़/NN है/VAUX 
+नशा/NN सारा/QF कुच्छ/QF ख़तम/VFM कर/VFM देंडा/VM है/VAUX 
+आए/VFM मैं/PRP सुनीसुनाई/JJ गाल/NN नही/NEG कर/VFM र्ही/VAUX 
+आप/PRP  वेखया/VFM है/VAUX 
+मैं/PRP घर/NN जाना/VAUX है/VAUX 
+मा/NN मैं/PRP घर/NN जाना/VAUX है/VAUX 
+थॅंक/Unk योउ/PRP मडंजी/NN अब/RB आप/PRP  ही/RP ठीक/RB करो/VFM इसे/PRP 
+श्याम/NNP इन/PRP को/PREP वॉर्ड/NN में/PREP ले/VFM जाओ/VFM 
+जेया/PRP बच्चे/NN वेख/VFM ले/VFM आएना/Unk वी/NNPC मादा/PSP नही/NEG सादा/PSP क्लिनिक/NN 
+आयेज/NN से/PREP यहाँ/PRP ना/QW अपनी/PRP इस/PRP वर्दी/NN में/PREP मत/NEG आना/VNN 
+क्या/QW बोल/VFM रहे/VAUX थे/VAUX आप/PRP उस/PRP दिन/NN 
