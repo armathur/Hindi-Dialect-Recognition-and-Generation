@@ -1,0 +1,1 @@
+Built a multi class supervised learning model to recognize about 6 dialect of hindi spoken by about 300 Million people. Used regional Bollywood movie scripts to learn the words association and frequency. 
